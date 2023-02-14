@@ -1,0 +1,695 @@
+Tahun join,Bulan join,Peternak,Cabang (BOP 1),Alamat,Kapasitas,Tipe Kerjasama,Tipe Kandang,PPL,Mitra Manager,Area Manager,Subsidi Listrik,Potongan Tabungan,PPL (A),Mitra Manager (A),Wilayah,Bulan keluar,Tahun keluar,Bulan Keluar,,,Nama Pemilik
+2021,7,IIS INDRI YANIH,HO (1.500),"Kembang Kuning, Jasinga, Bogor","10,000",Garansi,OPEN,Suma,Muhammad Khaerudin,Widodo Callista,,,Suma,Muhammad Khaerudin,HO,,,,,,IIS INDRI YANIH
+2021,7,SUCIPTO 2,HO (1.500),"Kp. Curug, Jasinga, Bogor","20,000",Cost Plus,SEMI,Suma,Muhammad Khaerudin,Widodo Callista,,,Suma,Muhammad Khaerudin,HO,,,,,,SUCIPTO 2
+2021,7,SAMAUN,HO (1.500),"Kembang Kuning, Jasinga, Bogor","25,000",Garansi,OPEN,Suma,Muhammad Khaerudin,Widodo Callista,,,Suma,Muhammad Khaerudin,HO,,,,,,SAMAUN
+2021,8,SUPARLAN,HO (1.500),"Jl. Katapang Andir, Tegal, Kemang, Bogor","20,000",Garansi,OPEN,Suma,Muhammad Khaerudin,Widodo Callista,,,Suma,Muhammad Khaerudin,HO,10,2021,2021,,,SUPARLAN
+2021,8,BUNNY WIDJAJA A,HO (1.500),"Kembang Kuning, Jasinga, Bogor","12,000",Cost Plus,CLOSED,Suma,Muhammad Khaerudin,Widodo Callista,,,Suma,Muhammad Khaerudin,HO,6,2022,,,,BUNNY WIDJAJA 
+2021,8,BUNNY WIDJAJA B,HO (1.500),"Kembang Kuning, Jasinga, Bogor","20,000",Cost Plus,CLOSED,Suma,Muhammad Khaerudin,Widodo Callista,,,Suma,Muhammad Khaerudin,HO,6,2022,,,,BUNNY WIDJAJA
+2021,8,NURSHIRWAN HARUN AL RASYID,HO (1.500),"Kp. Sukajaya, Jonggol, Bogor","18,000",Cost Plus,SEMI,Dedy Prayitno,Muhammad Khaerudin,Widodo Callista,,,Dedy Prayitno,Muhammad Khaerudin,HO,,,,,,NURSHIRWAN HARUN AL RASYID
+2021,9,VICTOR SIMAMORA,HO (1.500),"Kp Sodong, Klapanunggal, Bogor","17,000",Cost Plus,SEMI,Dedy Prayitno,Muhammad Khaerudin,Widodo Callista,,,Dedy Prayitno,Muhammad Khaerudin,HO,,,,,,VICTOR SIMAMORA
+2021,9,MARSUDI,HO (1.500),"Kp. Nagrag, Cileungsi, Bogor","20,000",Cost Plus,SEMI,Dedy Prayitno,Muhammad Khaerudin,Widodo Callista,,,Dedy Prayitno,Muhammad Khaerudin,HO,,,,,,MARSUDI
+2021,9,TIARA PHF,HO (1.500),"Kp. Bangkongreang, Ds. Candali, Kec. Kemang - Bogor","22,500",Cost Plus,SEMI,Suma,Muhammad Khaerudin,Widodo Callista,,,Suma,Muhammad Khaerudin,HO,,,,,,TIARA PHF
+2021,9,SRI HARIYATI SUCIPTO A,HO (1.500),"Kp. Curug, Jasinga, Bogor","38,000",Cost Plus,SEMI,Suma,Muhammad Khaerudin,Widodo Callista,,,Suma,Muhammad Khaerudin,HO,,,,,,SRI HARIYATI SUCIPTO
+2021,11,SRI HARIYATI SUCIPTO B,HO (1.500),"Kp. Curug, Jasinga, Bogor","38,000",Cost Plus,SEMI,Suma,Muhammad Khaerudin,Widodo Callista,,,Suma,Muhammad Khaerudin,HO,,,,,,SRI HARIYATI SUCIPTO
+2021,9,NINDYAR LAMSUDIN A,HO (1.500),"Kp. Cijengkol, Bekasi","14,000",Cost Plus,SEMI,Dedy Prayitno,Muhammad Khaerudin,Widodo Callista,,,Dedy Prayitno,Muhammad Khaerudin,HO,,,,,,NINDYAR LAMSUDIN
+2021,9,NINDYAR LAMSUDIN B,HO (1.500),"Kp. Cijengkol, Bekasi","15,000",Cost Plus,SEMI,Dedy Prayitno,Muhammad Khaerudin,Widodo Callista,,,Dedy Prayitno,Muhammad Khaerudin,HO,,,,,,NINDYAR LAMSUDIN
+2021,10,SITI FATIMAH A,HO (1.500),"Kp Cikarang Girang, Cibarusah","24,000",Cost Plus,SEMI,Dedy Prayitno,Muhammad Khaerudin,Widodo Callista,,,Dedy Prayitno,Muhammad Khaerudin,HO,,,,,,SITI FATIMAH
+2021,10,SITI FATIMAH B,HO (1.500),"Kp Cimahpar, Bogor","13,000",Cost Plus,SEMI,Dedy Prayitno,Muhammad Khaerudin,Widodo Callista,,,Dedy Prayitno,Muhammad Khaerudin,HO,,,,,,SITI FATIMAH
+2021,10,FREDRIK A,HO (1.500),"Kp. Cikaragamen, Bekasi","19,000",Cost Plus,SEMI,Purnomo Sidiq,Nanang Prihanto,Widodo Callista,,,Purnomo Sidiq,Nanang Prihanto,HO,,,,,,FREDRIK
+2021,10,KUSDININGSIH A,HO (1.500),"Kp. Nyengcle, Cariu, Bogor","20,000",Cost Plus,SEMI,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Dedy Prayitno,Muhammad Khaerudin,HO,3,2022,2022,,,KUSDININGSIH
+2021,10,KUSDININGSIH B,HO (1.500),"Kp. Nyengcle, Cariu, Bogor","20,000",Cost Plus,SEMI,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Dedy Prayitno,Muhammad Khaerudin,HO,3,2022,2022,,,
+2021,11,KUSDININGSIH C,HO (1.500),"Kp. Nyengcle, Cariu, Bogor","20,000",Cost Plus,SEMI,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Dedy Prayitno,Muhammad Khaerudin,HO,3,2022,2022,,,
+2021,11,KUSDININGSIH D,HO (1.500),"Kp. Nyengcle, Cariu, Bogor","18,000",Cost Plus,SEMI,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Dedy Prayitno,Muhammad Khaerudin,HO,3,2022,2022,,,
+2021,11,RAHMATULLAH TERITIH 1,HO (1.500),"Kp. Teritih, Desa Kibin, Kec. Kibin","44,500",Garansi,OPEN,Hendra Firdaus,Endri Suhendri,Widodo Callista,,,Hendra Firdaus,Endri Suhendri,HO,,,,,,RAHMATULLAH TERITIH
+2021,11,FENNI MURTIANI A,HO (1.500),"Kp. Susukan, Gunung Picung, Pamijahan, Bogor","36,000",Cost Plus,SEMI,Suma,Muhammad Khaerudin,Widodo Callista,,,Suma,Muhammad Khaerudin,HO,,,,,,FENNI MURTIANI
+2021,11,AGUS SETIAWAN A,HO (1.500),"Kp. Selaraja Tengah, Warung Gunung, Lebak, Banten","10,000",Cost Plus,SEMI,Hendra Firdaus,Endri Suhendri,Widodo Callista,,,Hendra Firdaus,Endri Suhendri,HO,,,,,,AGUS SETIAWAN
+2021,11,KOMARUDIN,HO (1.500),"Kp. Pahlawan, Rt 001 Rw 003, Gunung Bunder I, Pamijahan, Bogor","12,000",Garansi,OPEN,Suma,Muhammad Khaerudin,Widodo Callista,,,Suma,Muhammad Khaerudin,HO,,,,,,KOMARUDIN
+2021,11,H. APIPULLAH,HO (1.500),"Kp. Malang Sari, Saninten, Kaduhejo, Pandeglang, Banten","20,000",Cost Plus,SEMI,Hendra Firdaus,Endri Suhendri,Widodo Callista,,,Hendra Firdaus,Endri Suhendri,HO,,,,,,H. APIPULLAH
+2021,11,OHIM ABDUROHIM A,HO (1.500),"Kp. Cipacung 2, Desa Saruni, Majasari, Pandeglang","16,000",Cost Plus,SEMI,Abdul Rohim,Endri Suhendri,Widodo Callista,,,Abdul Rohim,Endri Suhendri,HO,,,,,,OHIM ABDUROHIM
+2021,11,RAHMATULLAH SERDANG,HO (1.500),"Kp Serdang Desa Sukaraja, Kecamatan Bandung Tambak Serang","30,000",Garansi,OPEN,Hendra Firdaus,Endri Suhendri,Widodo Callista,,,Hendra Firdaus,Endri Suhendri,HO,,,,,,RAHMATULLAH SERDANG
+2021,11,RAHMATULLAH JUMRI,HO (1.500),"Kp Pasir, Desa Ketos, Kecamatan Kibin, Kabupaten Serang","13,000",Garansi,SEMI,Hendra Firdaus,Endri Suhendri,Widodo Callista,,,Hendra Firdaus,Endri Suhendri,HO,,,,,,RAHMATULLAH JUMRI
+2021,12,SURADI A,HO (1.500),"Kp Cikarang Girang, Cibarusah","22,000",Cost Plus,SEMI,Dedy Prayitno,Muhammad Khaerudin,Widodo Callista,,,Dedy Prayitno,Muhammad Khaerudin,HO,9,2022,,,,SURADI
+2021,11,FENNI MURTIANI B,HO (1.500),"Kp. Cibening, Ds. Kertarahayu, Kec. Setu Bekasi  ","18,000",Cost Plus,SEMI,Dedy Prayitno,Muhammad Khaerudin,Widodo Callista,,,Suma,Muhammad Khaerudin,HO,,,,,,FENNI MURTIANI
+2021,12,BURHANUDIN,HO (1.500),"Karya Sari,Puraseda, Bogor","24,000",Own Farm,SEMI,Eko ,Ipung,Ipung,,,Eko ,Ipung,HO,,,,,,BURHANUDIN
+2022,12,H. HERMAN,HO (1.500),"Pamijahan, Bogor",,Own Farm,SEMI,Eko ,Ipung,Ipung,,,Eko ,Ipung,HO,,,,,,H. HERMAN
+2021,12,SURADI B,HO (1.500),"Kp Cikarang Girang, Cibarusah","25,000",Cost Plus,SEMI,Dedy Prayitno,Muhammad Khaerudin,Widodo Callista,,,Dedy Prayitno,Muhammad Khaerudin,HO,9,2022,,,,SURADI
+2021,12,OHIM ABDUROHIM B,HO (1.500),"Kp. Cipucang 2, Desa Saruni, Majasari, Pandeglang","10,000",Cost Plus,SEMI,Abdul Rohim,Endri Suhendri,Widodo Callista,,,Abdul Rohim,Endri Suhendri,HO,,,2022,,,OHIM ABDUROHIM
+2021,12,SILVIANA A,HO (1.500),"Kp Iringowo, Desa Sukajaya, Kecamatan Jonggol, Kab. Bogor","42,000",Cost Plus,SEMI,Dedy Prayitno,Muhammad Khaerudin,Widodo Callista,,,Dedy Prayitno,Muhammad Khaerudin,HO,4,2022,2022,,,SILVIANA
+2021,12,SILVIANA B,HO (1.500),"Kp Iringowo, Desa Sukajaya, Kecamatan Jonggol, Kab. Bogor","42,000",Cost Plus,SEMI,Dedy Prayitno,Muhammad Khaerudin,Widodo Callista,,,Dedy Prayitno,Muhammad Khaerudin,HO,4,2022,2022,,,SILVIANA
+2021,12,SILVIANA C,HO (1.500),"Kp Iringowo, Desa Sukajaya, Kecamatan Jonggol, Kab. Bogor","42,000",Cost Plus,SEMI,Dedy Prayitno,Muhammad Khaerudin,Widodo Callista,,,Dedy Prayitno,Muhammad Khaerudin,HO,4,2022,2022,,,SILVIANA
+2021,12,AGUS SETIAWAN B,HO (1.500),"Kp. Tegal Serang, Desa Cikulur, Kab. Lebak, Banten","18,000",Cost Plus,SEMI,Hendra Firdaus,Endri Suhendri,Widodo Callista,,,Hendra Firdaus,Endri Suhendri,HO,,,,,,AGUS SETIAWAN
+2021,12,A.AMRORI BADAR,HO (1.500),"Kp. Kadu Turus, Desa Sukasari, Kec. Pulosari, Pandeglang","5,000",Cost Plus,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,,,,,,A.AMRORI BADAR
+2021,12,FENNI MURTIANI C,HO (1.500),"Kp. Ciasmara, Pamijahan, Bogor","8,000",Cost Plus,SEMI,Suma,Muhammad Khaerudin,Widodo Callista,,,Suma,Muhammad Khaerudin,HO,,,,,,FENNI MURTIANI
+2021,12,FREDRIK B,HO (1.500),"Kp. Cikaragamen, Bekasi","28,000",Cost Plus,SEMI,Purnomo Sidiq,Nanang Prihanto,Widodo Callista,,,Purnomo Sidiq,Muhammad Khaerudin,HO,,,,,,FREDRIK
+2021,12,OHIM ABDUROHIM C,HO (1.500),"Kp. Cipacungng 2, Desa Saruni, Majasari, Pandeglang","15,000",Cost Plus,SEMI,Hendra Firdaus,Endri Suhendri,Widodo Callista,,,Hendra Firdaus,Endri Suhendri,HO,,,,,,OHIM ABDUROHIM
+2021,12,DADI SURYADI,HO (1.500),"Kp. Karag, Desa Kurung Kambing, Pandeglang","20,000",Garansi,OPEN,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,1,2022,2022,,,DADI SURYADI
+2021,12,H. SUMARNA,HO (1.500),"Kp. Tipar Baru, Desa Tipar Jaya, Kec. Jambe, Kab. Tangerang","7,500",Garansi,OPEN,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,,,,,,H. SUMARNA
+2021,12,TRIE MULYANA A,HO (1.500),"Sajira, Lebak","9,000",Cost Plus,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,,,,,,TRIE MULYANA
+2021,12,INDRIASTUTI A,HO (1.500),"Kp. Nyengcle, Cariu, Bogor","22,000",Cost Plus,SEMI,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Muhammad Hasyim,Muhammad Khaerudin,HO,8,2022,,,,INDRIASTUTI
+2021,12,INDRIASTUTI B,HO (1.500),"Kp. Nyengcle, Cariu, Bogor","28,000",Cost Plus,SEMI,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Muhammad Hasyim,Muhammad Khaerudin,HO,8,2022,,,,INDRIASTUTI
+2021,12,IKHLAS RIYADI,HO (1.500),"Kp. Nyengcle, Cariu, Bogor","20,000",Cost Plus,SEMI,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Muhammad Hasyim,Muhammad Khaerudin,HO,,,,,,IKHLAS RIYADI
+2022,1,TEMMY AWIJAYA A,HO (1.500),"Kp. Pesanggrahan, Desa Selawangi, Kab. Bogor","20,000",Cost Plus,SEMI,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Muhammad Hasyim,Muhammad Khaerudin,HO,7,2022,,,,TEMMY AWIJAYA
+2022,1,TEMMY AWIJAYA B,HO (1.500),"Kp. Pesanggrahan, Desa Selawangi, Kab. Bogor","20,000",Cost Plus,SEMI,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Muhammad Hasyim,Muhammad Khaerudin,HO,7,2022,,,,TEMMY AWIJAYA
+2022,1,FIKRI RAMADONA,HO (1.500),"Kp. Pamatang Kupa, Desa Cimanggu,Kec. Cimanggu, Kab. Pandeglang","26,000",Garansi,SEMI,Abdul Rohim,Endri Suhendri,Widodo Callista,,,Abdul Rohim,Endri Suhendri,HO,,,,,,FIKRI RAMADONA
+2022,1,SUDARMO,HO (1.500),"Kp. Sulangkeng, Desa Ranca Tereup, Kec. Labian Pandeglang","11,000",Cost Plus,SEMI,Abdul Rohim,Endri Suhendri,Widodo Callista,,,Abdul Rohim,Endri Suhendri,HO,,,,,,SUDARMO
+2022,1,AGUS SUHENDAR A,HO (1.500),"Kp. Patambaran, Atang Sanjaya, Kemang, Bogor","10,000",Cost Plus,SEMI,Suma,Muhammad Khaerudin,Widodo Callista,,,Suma,Muhammad Khaerudin,HO,,,,,,AGUS SUHENDAR
+2022,1,ABONG A,HO (1.500),"Kp. Pasanggrahan, Selawangi, Bogor","14,000",Cost Plus,SEMI,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Muhammad Hasyim,Muhammad Khaerudin,HO,,,,,,ABONG
+2022,1,ABONG B,HO (1.500),"Kp. Pasanggrahan, Selawangi, Bogor","32,000",Cost Plus,SEMI,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Muhammad Hasyim,Muhammad Khaerudin,HO,,,,,,ABONG
+2022,1,ABONG C,HO (1.500),"Jl. Pasar Jonggol, Ds Sukamaju,Jonggol,Bogor","30,000",Cost Plus,SEMI,Dedy Prayitno,Muhammad Khaerudin,Widodo Callista,,,Dedy Prayitno,Muhammad Khaerudin,HO,,,,,,ABONG
+2022,2,ABONG D,HO (1.500),"Jl. Pasar Jonggol, Ds Sukamaju,Jonggol,Bogor","22,000",Cost Plus,SEMI,Dedy Prayitno,Muhammad Khaerudin,Widodo Callista,,,Dedy Prayitno,Muhammad Khaerudin,HO,,,,,,ABONG
+2022,1,H. KOMARUDIN,HO (1.500),"Kp. Rawabogo, Desa Pasirmukti, Kec Citeureup","11,000",Cost Plus,SEMI,Purnomo Sidiq,Nanang Prihanto,Widodo Callista,,,Purnomo Sidiq,Nanang Prihanto,HO,,,,,,H.KOMARUDIN
+2022,1,ENUNG NURHANI,HO (1.500),"Kp. Suka Maju, Ds. Talagahiang, Kec. Cipanas, Lebak","6,500",Cost Plus,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Warsito,Warsito,HO,,,,,,ENUNG NURHANI
+2022,2,ABIDA MUMTAZA A,HO (1.500),"Kp. Cicopong. Desa Cigudeg , Kec. Cigudeg, Kab. Bogor","10,000",Cost Plus,SEMI,Suma,Muhammad Khaerudin,Widodo Callista,,,Suma,Muhammad Khaerudin,HO,,,,,,ABIDA MUMTAZA
+2022,2,POPPY ELSHINTA,HO (1.500),"Jl. Kampung Pasir Kejo Rt 002/003, Kec. Nanggung Kab. Bogor","20,000",Cost Plus,SEMI,Purnomo Sidiq,Nanang Prihanto,Widodo Callista,,,Purnomo Sidiq,Nanang Prihanto,HO,,,,,,POPPY ELSHINTA
+2022,2,RAHMATULLAH TUNJUNG,HO (1.500),"Kp. Cimanik, Desa Tunjung Teja, Kec. Tunjung Teja, Kab. Serang","40,000",Garansi,OPEN,Hendra Firdaus,Endri Suhendri,Widodo Callista,,,Hendra Firdaus,Endri Suhendri,HO,,,,,,RAHMATULLAH TUNJUNG
+2022,2,JOHARUDIN A,HO (1.500),"Kp. Cibeber, Desa Padasuka,  Kec. Cimanggu Pandeglang","5,000",Garansi,SEMI,Abdul Rohim,Endri Suhendri,Widodo Callista,,,Abdul Rohim,Endri Suhendri,HO,,,,,,JOHARUDIN
+2022,2,JOHARUDIN B,HO (1.500),"Kp. Cibeber, Desa Padasuka,  Kec. Cimanggu Pandeglang","3,500",Garansi,SEMI,Abdul Rohim,Endri Suhendri,Widodo Callista,,,Abdul Rohim,Endri Suhendri,HO,,,,,,JOHARUDIN
+2022,3,AGUS SALIM (AGUN),HO (1.500),"Kp. Pasir Emad, Desa Paniis, Kec. Koroncon, Pandeglang, Banten","50,000",Garansi,CLOSED,Abdul Rohim,Endri Suhendri,Widodo Callista,,,Abdul Rohim,Endri Suhendri,HO,4,2022,2022,,,AGUS SALIM (AGUN)
+2022,3,ASMARI,HO (1.500),"Kp. Babad, Desa Banyumekar, Kec. Labuan, Pandeglang, Banten","12,000",Cost Plus,SEMI,Abdul Rohim,Endri Suhendri,Widodo Callista,,,Abdul Rohim,Endri Suhendri,HO,,,,,,ASMARI (SITI ALIYANAH)
+2022,3,FARIZ A,HO (1.500),"Kp. Pasanggrahan, Selawangi,Tanjung Sari, Cariu","15,000",Cost Plus,SEMI,Purnomo Sidiq,Nanang Prihanto,Widodo Callista,,,Purnomo Sidiq,Nanang Prihanto,HO,,,2022,,,FARIZ
+2022,3,FARIZ B,HO (1.500),"Kp. Pasanggrahan, Selawangi,Tanjung Sari, Cariu","22,000",Cost Plus,SEMI,Purnomo Sidiq,Nanang Prihanto,Widodo Callista,,,Purnomo Sidiq,Nanang Prihanto,HO,,,2022,,,FARIZ
+2022,3,YUDI GUSTAMA,HO (1.500),"Kp. Cigintung, Sukajaya, Jonggol","26,000",Cost Plus,SEMI,Dedy Prayitno,Muhammad Khaerudin,Widodo Callista,,,Dedy Prayitno,Nanang Prihanto,HO,5,2022,2022,,,YUDI GUSTAMA
+2022,3,ARYA A,Cabang (1.000),Ds. Padahanten Kec. Sukahaji Kab. Majalengka,"10,000",Garansi,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,7,2022,,,,ARYA
+2022,3,ARYA B,Cabang (1.000),Ds. Padahanten Kec. Sukahaji Kab. Majalengka,"9,000",Garansi,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,7,2022,,,,ARYA
+2022,3,IDING MUHAJIDIN A,Cabang (1.000),Ds. Cingambul Kec. Cikijing Kab. Majalengka,"7,000",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,IDING MUHAJIDIN
+2022,3,IDING MUHAJIDIN B,Cabang (1.000),Ds. Cingambul Kec. Cikijing Kab. Majalengka,"7,000",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,IDING MUHAJIDIN
+2022,3,SATORI,Cabang (1.000),Ds. Sindangwangi Kec. Rajagaluh Kab. Majalengka,"8,000",Cost Plus,SEMI,Jamal Abdul Naseh,Nata Alamsyah,Widodo Callista,,,Jamal Abdul Naseh,Nata Alamsyah,CIREBON,8,2022,,,,SATORI
+2022,3,HERI DASHARI,Cabang (1.000),Ds. Sindanghaji Kec. Palasah Kab. Majalengka,"10,000",Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,,,,,,HERI DASHARI
+2022,3,MULYANA,Cabang (1.000),Ds. Sukasari Kec. Argapura Kab. Majalengka,"8,000",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,8,2022,,,,MULYANA
+2022,3,HADI SUBAGJA,Cabang (1.000),Ds. Indrakila Kec. Sindang Kab. Majalengka,"8,000",Cost Plus,SEMI,Jamal Abdul Naseh,Nata Alamsyah,Widodo Callista,,,Jamal Abdul Naseh,Nata Alamsyah,CIREBON,8,2022,,,,HADI SUBAGJA
+2022,3,AFRIZON,HO (1.500),"Jl. Kesatrian Ix Blok K No 2, Kel. Kebon Manggis, Kec. Matraman","20,000",Cost Plus,SEMI,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Muhammad Hasyim,Muhammad Khaerudin,HO,7,2022,2022,,,AFRIZON
+2022,3,HERIYANTO,HO (1.500),"Desa Sukajaya, Kec. Jonggol, Kab. Bogor","14,000",Cost Plus,SEMI,Dedy Prayitno,Muhammad Khaerudin,Widodo Callista,,,Dedy Prayitno,Muhammad Khaerudin,HO,6,2022,2022,,,HERIYANTO
+2022,3,RUBI HARTONO A,Cabang (1.000),"Rt 04 Rw 01 Ds. Jimbaran, Kec. Kayen, Kab. Pati","19,000",Garansi,CLOSED,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,,,,,,RUBI HARTONO
+2022,3,RUBI HARTONO B,Cabang (1.000),"Rt 04 Rw 01 Ds. Jimbaran, Kec. Kayen, Kab. Pati","11,000",Garansi,CLOSED,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,,,,,,RUBI HARTONO
+2022,3,MURTIYOSO A,Cabang (1.000),"Rt 07 Rw 01 Ds. Jimbaran, Kec. Kayen, Kab. Pati","17,000",Garansi,CLOSED,Ahmad Sumarsono,Suhindro Awitno,Widodo Callista,,,Ahmad Sumarsono,Suhindro Awitno,PATI,,,,,,MURTIYOSO
+2022,3,NATHAN,Cabang (1.000),"Rt 07 Rw 01 Ds. Jimbaran, Kec. Kayen, Kab. Pati","9,000",Garansi,CLOSED,Ahmad Sumarsono,Suhindro Awitno,Widodo Callista,,,Ahmad Sumarsono,Suhindro Awitno,PATI,,,,,,MURTIYOSO
+2022,3,SRIAH A,Cabang (1.000),"Rt 04 Rw 02 Ds. Sambirejo, Kec. Tlogowungu, Kab. Pati","15,000",Garansi,CLOSED,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,10,2022,,,,SRIAH
+2022,3,SRIAH B,Cabang (1.000),"Rt 04 Rw 02 Ds. Sambirejo, Kec. Tlogowungu, Kab. Pati","15,000",Garansi,CLOSED,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,10,2022,,,,SRIAH
+2022,3,ABDULOH,Cabang (1.000),Ds. Cirea Kec. Mandirancan Kab. Kuningan,"28,000",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,ABDULLOH
+2022,3,JAJA SUDIRJA,Cabang (1.000),Ds. Rajagaluh Kidul Kec. Rajagaluh Kab. Majalengka,"7,000",Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,8,2022,,,,JAJA SUDIRJA
+2022,3,H. SURADI,Cabang (1.000),Ds. Rajagaluh Kidul Kec. Rajagaluh Kab. Majalengka,"26,000",Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,,,,,,H. SURADI
+2022,3,USMAN NURHIDAYAT,Cabang (1.000),Ds. Japara Kec. Japara Kab. Kuningan,"15,300",Cost Plus,SEMI,Jamal Abdul Naseh,Nata Alamsyah,Widodo Callista,,,Jamal Abdul Naseh,Nata Alamsyah,CIREBON,8,2022,,,,USMAN NURHIDAYAT
+2022,3,ENCEP SAPUDIN,HO (1.500),"Kp. Jangkar, Ds. Mekarwangi, Kec. Cariu, Kab.Bogor","20,000",Cost Plus,SEMI,Usman Efendi,Muhammad Khaerudin,Widodo Callista,,,Usman Efendi,Muhammad Khaerudin,HO,,,,,,ENCEP SAPUDIN
+2022,3,SUPENDI,HO (1.500),"Kp. Maribaya, No.05, Rt. 005 / 001,Kel. Pangaur, Kec. Jasinga, Kab, Bogor","10,000",Cost Plus,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,,,,,,SUPENDI
+2022,3,H. MUGIONO,HO (1.500),"Jl. Pasirpeutey, Rt.009/003,Karya Mekar, Kec. Cariu Bogor","16,000",Cost Plus,SEMI,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Muhammad Hasyim,Nanang Prihanto,HO,,,,,,H. MUGIONO
+2022,4,FREDRIK C,HO (1.500),"Kp Cigebang Rt 03,Rw 03 Ds Cibening,Kec Setu,Bekasi","14,000",Cost Plus,SEMI,Purnomo Sidiq,Nanang Prihanto,Widodo Callista,,,Purnomo Sidiq,Nanang Prihanto,HO,,,,,,FREDRIK
+2022,3,WINDA ARYANI A,HO (1.500),"Kp. Langkop,Ds Cisarua,Nanggung,Bogor","27,500",Cost Plus,SEMI,Purnomo Sidiq,Nanang Prihanto,Widodo Callista,,,Purnomo Sidiq,Nanang Prihanto,HO,5,2022,2022,,,WINDA ARYANI
+2022,3,WINDA ARYANI B,HO (1.500),"Kp. Langkop,Ds Cisarua,Nanggung,Bogor","27,500",Cost Plus,SEMI,Purnomo Sidiq,Nanang Prihanto,Widodo Callista,,,Purnomo Sidiq,Nanang Prihanto,HO,5,2202,2022,,,WINDA ARYANI
+2022,3,MAHATIR,Cabang (1.000),Ds. Kapetakan Kec. Kapetakan Kab. Cirebon,"20,000",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,MAHATIR
+2022,3,ASEP MUMIN SOPYAN,Cabang (1.000),Ds. Majasuka Kec. Palasah Kab. Majalengka,"15,000",Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,,,,,,ASEP MU'MIN SOPYAN
+2022,3,ENDANG AMDANI,Cabang (1.000),Ds. Greged Kec. Greged Kab. Cirebon,"7,000",Cost Plus,SEMI,Jamal Abdul Naseh,Nata Alamsyah,Widodo Callista,,,Jamal Abdul Naseh,Nata Alamsyah,CIREBON,8,2022,,,,ENDANG
+2022,3,DODI MAHMUDI,Cabang (1.000),Ds. Greged Kec. Greged Kab. Cirebon,"8,000",Cost Plus,SEMI,Jamal Abdul Naseh,Nata Alamsyah,Widodo Callista,,,Jamal Abdul Naseh,Nata Alamsyah,CIREBON,,,,,,DODI
+2022,3,IBNUDIN A,Cabang (1.000),Ds. Tenajar Kec. Kertasmaya Kab. Indramayu,"15,000",Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,8,2022,,,,IBNUDIN
+2022,3,OHIM ABDUROHIM D,HO (1.500),"Kp. Cipacungng 2, Desa Saruni, Majasari, Pandeglang","20,000",Cost Plus,SEMI,Abdul Rohim,Endri Suhendri,Widodo Callista,,,Abdul Rohim,Endri Suhendri,HO,,,,,,OHIM ABDUROHIM
+2022,3,RAHMATULLAH GALIH A,HO (1.500),"Kp. Galih, Ds. Galih, Kec. Kibin, Kab. Serang","20,000",Garansi,SEMI,Hendra Firdaus,Endri Suhendri,Widodo Callista,,,Hendra Firdaus,Endri Suhendri,HO,,,,,,RAHMATULLAH GALIH
+2022,3,RAHMATULLAH GALIH B,HO (1.500),"Kp. Galih, Ds. Galih, Kec. Kibin, Kab. Serang","10,000",Garansi,SEMI,Hendra Firdaus,Endri Suhendri,Widodo Callista,,,Hendra Firdaus,Endri Suhendri,HO,,,,,,RAHMATULLAH GALIH
+2022,3,DIDI SUYADI,HO (1.500),"Kp Parung Boni, Ds Ranca Iyuh,Kec Panongan , Tangerang","22,000",Cost Plus,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,,,,,,DIDI SUYADI
+2022,3,AIHASANAH,Cabang (1.000),Ds. Greged Kec. Greged Kab. Cirebon,"11,000",Cost Plus,SEMI,Jamal Abdul Naseh,Nata Alamsyah,Widodo Callista,,,Jamal Abdul Naseh,Nata Alamsyah,CIREBON,,,,,,AI HASANAH
+2022,3,RIZAL AUDY,Cabang (1.000),Ds. Seda Kec. Mandirancan Kab. Kuningan,"10,000",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,8,2022,,,,RIZAL AUDY
+2022,3,MAMAN RUSMANA,Cabang (1.000),Ds. Seda Kec. Mandirancan Kab. Kuningan,"7,500",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,MAMAN RUSMANA
+2022,3,NENG ROHAENI,Cabang (1.000),Ds. Luwungkencana Kec. Susukan Kab. Cirebon,"12,500",Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,,,,,,NENG ROHAENI/AGUNG
+2022,3,ALI HUSODO A,Cabang (1.000),"Sembung Rt 04/15, Sendangtirto, Berbah, Sleman, Yogyakarta","12,000",Cost Plus,CLOSED,Dwi Santoso,Soleh,Widodo Callista,,,Dwi Santoso,Soleh,SOLO,10,2022,,,,ALI HUSODO
+2022,3,BUDI PRIYONO (ECO FARM 7),HO (1.500),Kampung Sakulu Serang,"36,000",Cost Plus,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,8,2022,,,,ECO FARM
+2022,3,BUDI PRIYONO (ECO FARM 8),HO (1.500),Kampung Sakulu Serang,"18,000",Cost Plus,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,8,2022,,,,ECO FARM
+2022,3,BUDI PRIYONO (ECO FARM 9),HO (1.500),Kampung Sakulu Serang,"18,000",Cost Plus,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,8,2022,,,,ECO FARM
+2022,3,AHMAD SUHUDI,Cabang (1.000),"Rt 01 Rw 03 Ds. Mojoagung, Kec. Pucakwangi, Kab. Pati","17,000",Garansi,SEMI,Ahmad Sumarsono,Suhindro Awitno,Widodo Callista,,,Ahmad Sumarsono,Suhindro Awitno,PATI,,,,,,SUHUDI
+2022,3,AHMAD ANIQ,Cabang (1.000),"Rt 04 Rw 01 Ds. Jimbaran, Kec. Kayen, Kab. Pati","18,000",Garansi,CLOSED,Ahmad Sumarsono,Suhindro Awitno,Widodo Callista,,,Ahmad Sumarsono,Suhindro Awitno,PATI,,,,,,ANIQ
+2022,3,AHMAD FAUZI,Cabang (1.000),"Rt 06 Rw 01 Ds. Jimbaran, Kec. Kayen, Kab. Pati","9,000",Garansi,CLOSED,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,,,,,,FAUZI
+2022,3,ABIDA MUMTAZA B,HO (1.500),"Kp. Cisarua, Ds. Langlop, Kec. Nangung Bogor","36,000",Cost Plus,SEMI,Purnomo Sidiq,Nanang Prihanto,Widodo Callista,,,Purnomo Sidiq,Nanang Prihanto,HO,5,2022,2022,,,ABIDA MUMTAZA
+2022,3,ALFIAN,HO (1.500),"Cimalaya, Karawang","10,000",Cost Plus,SEMI,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Muhammad Hasyim,Nanang Prihanto,HO,,,,,,ALFIAN
+2022,3,JIHAN,HO (1.500),"Cimalaya, Karawang","12,000",Cost Plus,SEMI,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Muhammad Hasyim,Nanang Prihanto,HO,,,,,,JIHAN
+2022,4,KAYANA,Cabang (1.000),Ds. Luwungkencana Kec. Susukan Kab. Cirebon,"7,000",Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,,,,,,KAYANA
+2022,4,SUDRAJAT,Cabang (1.000),Ds. Luwungkencana Kec. Susukan Kab. Cirebon,"7,000",Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,,,,,,SUDRAJAT
+2022,4,WAYAN SIMAYASA A,Cabang (1.000),Ds. Harjosari Kec. Adiwerna Kab. Tegal,"26,000",Cost Plus,SEMI,Jamal Abdul Naseh,Nata Alamsyah,Widodo Callista,,,Jamal Abdul Naseh,Nata Alamsyah,CIREBON,,,,,,WAYAN
+2022,4,OKI,Cabang (1.000),Ds. Cieuri Kec. Ciawi Gebang Kab. Kuningan,"8,000",Cost Plus,SEMI,Jamal Abdul Naseh,Nata Alamsyah,Widodo Callista,,,Jamal Abdul Naseh,Nata Alamsyah,CIREBON,7,2022,,,,OKI
+2022,4,SUKARNO A,Cabang (1.000),Rt 08 Rw 02 Ds. Mantingan Kec. Jakenan Kab. Pati,"20,000",Garansi,SEMI,Ahmad Sumarsono,Suhindro Awitno,Widodo Callista,,,Ahmad Sumarsono,Suhindro Awitno,PATI,,,,,,FATMAH
+2022,4,PETER HENDRAWAN A,HO (1.500),"Kp. Duren Bongkok, Ds. Berkah, Kec.Bojong Genteng, Kab. Sukabumi","50,000",Cost Plus,SEMI,Usman Efendi,Muhammad Khaerudin,Widodo Callista,,,Usman Efendi,Muhammad Khaerudin,HO,5,2022,2022,,,PETER HENDRAWAN
+2022,4,PETER HENDRAWAN B,HO (1.500),"Kp. Duren Bongkok, Ds. Berkah, Kec.Bojong Genteng, Kab. Sukabumi","9,000",Cost Plus,SEMI,Usman Efendi,Muhammad Khaerudin,Widodo Callista,,,Usman Efendi,Muhammad Khaerudin,HO,5,2022,2022,,,PETER HENDRAWAN
+2022,4,PETER HENDRAWAN C,HO (1.500),"Kp. Duren Bongkok, Ds. Berkah, Kec.Bojong Genteng, Kab. Sukabumi","9,000",Cost Plus,SEMI,Usman Efendi,Muhammad Khaerudin,Widodo Callista,,,Usman Efendi,Muhammad Khaerudin,HO,5,2022,2022,,,PETER HENDRAWAN
+2022,4,SUYANTO,HO (1.500),"Kp. Kadujami, Desa Janaka, Kec Jiput Kabupaten Pandeglang, Banten.","6,500",Cost Plus,SEMI,Abdul Rohim,Endri Suhendri,Widodo Callista,,,Abdul Rohim,Endri Suhendri,HO,,,,,,SUYANTO
+2022,4,SUNARYO,Cabang (1.000),Rt 05 Rw 02 Ds. Jimbaran Kec. Kayen Kab. Pati,"18,000",Garansi,SEMI,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,,,,,,SUNARYO
+2022,4,ALI HUSODO B,Cabang (1.000),"Sembung Rt 04/15, Sendangtirto, Berbah, Sleman, Yogyakarta","13,000",Cost Plus,CLOSED,Dwi Santoso,Soleh,Widodo Callista,,,Dwi Santoso,Soleh,SOLO,10,2022,,,,ALI HUSODO
+2022,4,ENOK AISAH A,Cabang (1.000),Ds. Cingambul Kec. Cikijing Kab. Majalengka,"15,000",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,ENOK AISAH
+2022,4,NOVI BAGASKARA A,Cabang (1.000),Ds. Sukaparna Kec. Talaga Kab. Majalengka,"15,000",Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,,,,,,NOVI BAGASKARA
+2022,4,AGUNG OKTOVIANA,Cabang (1.000),Ds. Sadamantra Kec. Jalaksana Kab. Kuningan,"15,000",Cost Plus,SEMI,Jamal Abdul Naseh,Nata Alamsyah,Widodo Callista,,,Jamal Abdul Naseh,Nata Alamsyah,CIREBON,7,2022,,,,AGUNG OKTAVIANA
+2022,4,SUNARWI B,Cabang (1.000),Rt 05 Rw 02 Ds. Ngemplak Kidul Kec. Margoyoso Kab. Pati,"30,000",Garansi,SEMI,Ahmad Sumarsono,Suhindro Awitno,Widodo Callista,,,Ahmad Sumarsono,Suhindro Awitno,PATI,6,2022,2022,,,SUNARWI
+2022,4,SUNARWI C,Cabang (1.000),Rt 05 Rw 02 Ds. Ngemplak Kidul Kec. Margoyoso Kab. Pati,"27,000",Garansi,SEMI,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,6,2022,2022,,,SUNARWI
+2022,4,KASPRI A,Cabang (1.000),Rt 05 Rw 02 Ds. Megulung Kec. Sumber Kab. Rembang,"14,000",Cost Plus,CLOSED,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,9,2022,,,,KASPARI
+2022,4,KASPRI B,Cabang (1.000),Rt 05 Rw 02 Ds. Megulung Kec. Sumber Kab. Rembang,"8,000",Cost Plus,CLOSED,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,9,2022,,,,KASPARI
+2022,4,AGUS RIFAI,HO (1.500),"Kp Kentrong,Ds Cipanas,Kec Cipanas Lebak","11,000",Cost Plus,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,,,,,,H. AGUS RIFAI
+2022,4,BUDI PRIYONO (ECO FARM 3),HO (1.500),Kampung Sakulu Serang,"20,000",Cost Plus,SEMI,Warsito,Warsito,Widodo Callista,,,Warsito,Warsito,HO,7,2022,,,,ECO FARM
+2022,4,DADI,HO (1.500),"Kp. Cibuluh, Ds. Bojong Mangu, Kec. Bojong Mangu, Kab. Bekasi","6,500",Cost Plus,SEMI,Usman Efendi,Muhammad Khaerudin,Widodo Callista,,,Usman Efendi,Warsito,HO,,,,,,DADI 
+2022,4,WAWAN HERMAWAN A,HO (1.500),"Kp. Kaduheuleut, Ds. Sukamanah, Kec. Jiput, Kab., Pandeglang - Banten","9,000",Cost Plus,SEMI,Abdul Rohim,Endri Suhendri,Widodo Callista,,,Abdul Rohim,Endri Suhendri,HO,,,,,,WAWAN
+2022,4,EROH ROHANAH,Cabang (1.000),Ds. Garatengah Kec. Japara Kab. Kuningan,"14,000",Garansi,SEMI,Jamal Abdul Naseh,Nata Alamsyah,Widodo Callista,,,Jamal Abdul Naseh,Nata Alamsyah,CIREBON,,,,,,EROH ROHANA
+2022,4,BUDI PRIYONO (ECO FARM 1),HO (1.500),Kampung Sakulu Serang,"12,500",Cost Plus,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,7,2022,,,,ECO FARM
+2022,4,BUDI PRIYONO (ECO FARM 2),HO (1.500),Kampung Sakulu Serang,"12,500",Cost Plus,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,7,2022,,,,ECO FARM
+2022,4,NGATIYONO,Cabang (1.000),Rt 03 Rw 04 Ds. Kuryo Kalangan Kec. Gabus Kab. Pati,"9,000",Cost Plus,SEMI,Ahmad Sumarsono,Suhindro Awitno,Widodo Callista,,,Ahmad Sumarsono,Suhindro Awitno,PATI,,,,,,YONO
+2022,4,SRIAH C,Cabang (1.000),Ds. Tegalharjo Kec. Trangkil Kab. Pati,"8,000",Garansi,CLOSED,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,10,2022,,,,SRIAH
+2022,4,ALI HUSODO C,Cabang (1.000),"Sembung Rt 04/15, Sendangtirto, Berbah, Sleman, Yogyakarta","12,000",Cost Plus,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,Dwi Santoso,Soleh,SOLO,10,2022,,,,ALI HUSODO
+2022,4,MUHAMMAD SUKARMIN,Cabang (1.000),Rt 03 Rw 04 Ds. Pucakwangi Kec. Pucakwangi Kab. Pati,"16,000",Garansi,SEMI,Ahmad Sumarsono,Suhindro Awitno,Widodo Callista,,,Ahmad Sumarsono,Suhindro Awitno,PATI,8,2022,,,,SUKARMIN
+2022,4,BUDI PRIYONO ( CITAPEN FARM 1),HO (1.500),"Kp Citapen, Ds Ciuyah,Kec Sajira Kab Lebak","13,500",Cost Plus,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,,,,,,CITAPEN FARM
+2022,4,BUDI PRIYONO ( CITAPEN FARM 2),HO (1.500),"Kp Citapen, Ds Ciuyah,Kec Sajira Kab Lebak","13,500",Cost Plus,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,,,,,,CITAPEN FARM
+2022,4,BUDI PRIYONO ( CITAPEN FARM 3),HO (1.500),"Kp Citapen, Ds Ciuyah,Kec Sajira Kab Lebak","13,000",Cost Plus,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,,,,,,CITAPEN FARM
+2022,4,BUDI PRIYONO ( CITAPEN FARM 4),HO (1.500),"Kp Citapen, Ds Ciuyah,Kec Sajira Kab Lebak","13,500",Cost Plus,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,,,,,,CITAPEN FARM
+2022,4,BUDI PRIYONO ( CITAPEN FARM 5),HO (1.500),"Kp Citapen, Ds Ciuyah,Kec Sajira Kab Lebak","13,500",Cost Plus,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,,,,,,CITAPEN FARM
+2022,4,MURSAL,HO (1.500),"Kp Naretel,Ds Sukacai,Kec Baros,Kab Serang","13,000",Garansi,SEMI,Abdul Rohim,Endri Suhendri,Widodo Callista,,,Abdul Rohim,Endri Suhendri,HO,,,,,,MURSAL
+2022,4,SHOLIKIN AKHLAK FUDIN A,Cabang (1.000),Rt 02 Rw 06 Ds. Lahar Kec. Tlogowungu Kab. Pati,"5,000",Garansi,CLOSED,Ahmad Sumarsono,Suhindro Awitno,Widodo Callista,,,Ahmad Sumarsono,Suhindro Awitno,PATI,,,,,,SHOLIKIN
+2022,4,SHOLIKIN AKHLAK FUDIN B,Cabang (1.000),Rt 02 Rw 06 Ds. Lahar Kec. Tlogowungu Kab. Pati,"8,000",Garansi,CLOSED,Ahmad Sumarsono,Suhindro Awitno,Widodo Callista,,,Ahmad Sumarsono,Suhindro Awitno,PATI,,,,,,SHOLIKIN
+2022,4,MOHADI,Cabang (1.000),Rt 04 Rw 03 Ds. Kepohkencono Kec. Pucakwangi Kab. Pati,"12,000",Garansi,SEMI,Ahmad Sumarsono,Suhindro Awitno,Widodo Callista,,,Ahmad Sumarsono,Suhindro Awitno,PATI,,,,,,AINUN/MUHADI
+2022,4,LUKITO,Cabang (1.000),Rt 05 Rw 02 Ds. Baleadi Kec. Sukolilo Kab. Pati,"13,000",Garansi,CLOSED,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,8,2022,,,,LUKITO
+2022,4,ALI HUSODO D,Cabang (1.000),"Sembung Rt 04/15, Sendangtirto, Berbah, Sleman, Yogyakarta","10,000",Cost Plus,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,Dwi Santoso,Soleh,SOLO,10,2022,,,,ALI HUSODO
+2022,4,SUPARNO,Cabang (1.000),"Ngemplak Pakis, Genengan, Jumantono, Karanganyar","10,000",Garansi,SEMI,Chandra Agustama,Soleh,Widodo Callista,,,Chandra Agustama,Soleh,SOLO,,,,,,SUPARNO
+2022,4,SUKARNO B,Cabang (1.000),Rt 08 Rw 02 Ds. Mantingan Kec. Jakenan Kab. Pati,"22,000",Garansi,SEMI,Ahmad Sumarsono,Suhindro Awitno,Widodo Callista,,,Ahmad Sumarsono,Suhindro Awitno,PATI,,,,,,SUKARNO
+2022,4,AHMAD MUARIF RIFAN A,Cabang (1.000),Rt 04 Rw 01 Ds. Jimbaran Kec. Kayen Kab. Pati ,"8,000",Garansi,CLOSED,Ahmad Sumarsono,Suhindro Awitno,Widodo Callista,,,Ahmad Sumarsono,Suhindro Awitno,PATI,,,,,,RUBI HARTONO
+2022,4,JAMALUDIN,Cabang (1.000),Ds. Greged Kec. Greged Kab. Cirebon,"8,000",Cost Plus,SEMI,Jamal Abdul Naseh,Nata Alamsyah,Widodo Callista,,,Jamal Abdul Naseh,Nata Alamsyah,CIREBON,9,2022,,,,JAMALUDIN
+2022,4,NOVI BAGASKARA B,Cabang (1.000),Ds. Sukaparna Kec. Talaga Kab. Majalengka,"10,000",Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,,,,,,NOVI BAGASKARA
+2022,5,KADIM,HO (1.500),"Kp. Cibuluh. Ds. Bojongmanggu, Kec.Bojongmangu Bekasi","26,000",Cost Plus,SEMI,Usman Efendi,Muhammad Khaerudin,Widodo Callista,,,Usman Efendi,Muhammad Khaerudin,HO,,,,,,KADIM
+2022,5,YASMIN,Cabang (1.000),Rt 04 Rw 01 Ds. Pucakwangi Kec. Pucakwangi Kab. Pati,"13,000",Garansi,SEMI,Ahmad Sumarsono,Suhindro Awitno,Widodo Callista,,,Ahmad Sumarsono,Suhindro Awitno,PATI,,,,,,YASMIN
+2022,5,SUKISNO,Cabang (1.000),"Tepus, Tamansari, Kerjo, Karanganyar","18,000",Garansi,SEMI,Chandra Agustama,Soleh,Widodo Callista,,,Chandra Agustama,Soleh,SOLO,,,,,,SUKISNO
+2022,5,ACENG,Cabang (1.000),Ds. Leuwilaja Kec. Sindangwangi Kab. Majalengka,"10,000",Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,,,,,,ACENG
+2022,5,TEDDY NURHOLIS,HO (1.500),"Kp Wates,Ds Waringin Jaya,Kec Cigeulis,Pandeglang,Banten","20,000",Garansi,SEMI,Abdul Rohim,Endri Suhendri,Widodo Callista,,,Abdul Rohim,Endri Suhendri,HO,,,,,,TEDDY
+2022,5,KAMSUR,HO (1.500),"Kp Cibuluh, Ds Bojongmangu,Kec Bojongmangu,Bekasi","25,000",Cost Plus,SEMI,Usman Efendi,Muhammad Khaerudin,Widodo Callista,,,Usman Efendi,Muhammad Khaerudin,HO,,,,,,KAMSUR
+2022,5,IR. SYARIF ALI IDRUS,HO (1.500),"Kp Jangkar,Mekarwangi,Cariu,Bogor","33,000",Cost Plus,SEMI,Usman Efendi,Muhammad Khaerudin,Widodo Callista,,,Usman Efendi,Muhammad Khaerudin,HO,10,2022,,,,H. IDRUS
+2022,5,TRIE MULYANA B,HO (1.500),"Sajira, Lebak","8,000",Cost Plus,SEMI,Warsito,Warsito,Widodo Callista,,,Warsito,Warsito,HO,,,,,,TRIE MULYANA
+2022,5,SUHUD,Cabang (1.000),Ds. Kerep Kec. Sulang Kab. Rembang,"11,000",Cost Plus,CLOSED,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,,,,,,SUHUD
+2022,5,JUHADI,Cabang (1.000),Ds. Randegan Kulon Kec. Jatitujuh Kab. Majalengka,"10,000",Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,,,,,,JUHADI
+2022,5,WAYAN SIMAYASA B,Cabang (1.000),Ds. Gumayun Kec. Dukuwaru Kab. Tegal,"27,000",Cost Plus,SEMI,Jamal Abdul Naseh,Nata Alamsyah,Widodo Callista,,,Jamal Abdul Naseh,Nata Alamsyah,CIREBON,,,,,,WAYAN
+2022,5,NANANG SUPRIYADI,Cabang (1.000),Rt 04 01 Ds. Baturejo Kec. Sukolilo Kab. Pati,"16,000",Garansi,CLOSED,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,,,,,,NANANG
+2022,5,RUSMIN NURYADIN,Cabang (1.000),Ds. Tegalkarang Kec. Palimanan Kab. Cirebon,"12,000",Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,,,,,,RUSMIN
+2022,5,NUR HALIMAH A,Cabang (1.000),Ds. Bakung Kidul Kec. Jamblang Kab. Cirebon,"20,000",Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,,,,,,NUR HALIMAH
+2022,5,NANANG SURYANA,HO (1.500),"Kp Jangkar,Mekarwangi,Cariu,Bogor","40,000",Cost Plus,SEMI,Usman Efendi,Muhammad Khaerudin,Widodo Callista,,,Usman Efendi,Muhammad Khaerudin,HO,,,,,,NANANG SURYANA
+2022,6,JOHAR NALAPRAYA,Cabang (1.000),Ds. Tenajar Kec. Kertasmaya Kab. Indramayu,"8,000",Garansi,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,,,,,,JOHAR NALAPRAYA
+2022,6,DODI HARDADI,Cabang (1.000),Ds. Cileuleuy Kec. Cigugur Kab. Kuningan,"8,000",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,DODI HARDADI
+2022,6,DIDI UHAEDI,Cabang (1.000),Ds. Cileuleuy Kec. Cigugur Kab. Kuningan,"12,000",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,DIDI UHAEDI
+2022,6,IBNUDIN B,Cabang (1.000),Ds. Tenajar Kec. Kertasmaya Kab. Indramayu,"7,000",Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,8,2022,,,,IBNUDIN
+2022,6,ENOK AISAH C,Cabang (1.000),Ds. Sukaperna Kec. Talaga Kab. Majalengka,"31,000",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,ENOK AISAH
+2022,6,MUSTHOPA,HO (1.500),"Kp. Babakan, Ds. Babakan, Kec. Tenjo, Bogor","13,000",Cost Plus,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,,,,,,MUSTHOPA
+2022,6,ENOK AISAH B,Cabang (1.000),Ds. Sukaperna Kec. Talaga Kab. Majalengka,"29,000",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,ENOK AISAH
+2022,6,ABONG E,HO (1.500),"Jl. Pasar Jonggol, Ds Sukamaju,Jonggol,Bogor","18,000",Cost Plus,SEMI,Dedy Prayitno,Muhammad Khaerudin,Widodo Callista,,,Dedy Prayitno,Muhammad Khaerudin,HO,,,,,,ABONG E
+2022,6,SUROSO,Cabang (1.000),"Rt 04 Rw 01 Ds. Wonorejo 
+Kec. Tlogowungu Kab. Pati","10,000",Garansi,CLOSED,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,,,,,,SUROSO
+2022,6,ARIF WINARNO A,Cabang (1.000),"Brajan, Sindon, Ngemplak, Boyolali","10,000",Garansi,SEMI,Chandra Agustama,Soleh,Widodo Callista,,,Chandra Agustama,Soleh,SOLO,8,2022,,,,ARIF WINARNO
+2022,6,OEN KHOERUDIN,Cabang (1.000),Ds. Tonjong Kec. Majalengka Kab. Majalengka,"36,000",Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,,,,,,OEN KHOERUDIN
+2022,6,IYING,Cabang (1.000),Ds. Padaherang Kec. Sindangwangi Kab. Majalengka,"7,000",Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,7,2022,,,,IYING
+2022,6,H. ROSIDIN,Cabang (1.000),Ds. Indrakila Kec. Rajagaluh Kab. Majalengka,"8,000",Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,7,2022,,,,ROSIDIN
+2022,6,KOSASIH,Cabang (1.000),Ds. Nusaherang Kec. Darma Kab. Kuningan,"20,000",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,KOSASIH
+2022,6,MASDUKI,Cabang (1.000),Ds. Sadamantra Kec. Jalaksana Kab. Kuningan,"20,000",Cost Plus,SEMI,Jamal Abdul Naseh,Nata Alamsyah,Widodo Callista,,,Jamal Abdul Naseh,Nata Alamsyah,CIREBON,,,,,,MASDUKI
+2022,6,KHOZIN HASAN A,Cabang (1.000),Ds. Slenda Kec. Gegesik Kab. Cirebon,"18,000",Cost Plus,SEMI,Jamal Abdul Naseh,Nata Alamsyah,Widodo Callista,,,Jamal Abdul Naseh,Nata Alamsyah,CIREBON,,,,,,KHOZIN HASAN
+2022,6,SAEFUL MAARIF,HO (1.500),"Kp. Monggor, Ds. Campaka, Kec. Kadu Hejo, Pandeglang","18,000",Cost Plus,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,,,,,,SAEFUL MAARIF
+2022,6,YUSUF AJI TOROB,Cabang (1.000),Ds. Margomulyo Kec. Tayu Kab. Pati,"22,000",Garansi,CLOSED,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,,,,,,YUSUF AJI TOROB
+2022,6,HENDRIK,HO (1.500),Ds. Cariu,"70,000",Cost Plus,SEMI,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Muhammad Hasyim,Nanang Prihanto,HO,,,,,,HENDRIK
+2022,6,DAYAT HIDAYAT,HO (1.500),"Kp. Curug Ciung, Rt 002 /003, Ds. Curug Ciung, Kec. Cikeusik, Kab. Pandeglang","10,000",Garansi,SEMI,Abdul Rohim,Endri Suhendri,Widodo Callista,,,Abdul Rohim,Endri Suhendri,HO,,,,,,DAYAT HIDAYAT
+2022,6,AISYAH,HO (1.500),"Kel. Sukatani, Kec. Cilamaya, Kab. Karawang","18,000",Cost Plus,SEMI,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Muhammad Hasyim,Nanang Prihanto,HO,,,,,,AISYAH
+2022,6,SARJUGO,Cabang (1.000),Rt 08 Rw 01 Ds. Mantingan Tengah Kec. Jakenan Kab. Pati,"15,000",Garansi,CLOSED,Ahmad Sumarsono,Suhindro Awitno,Widodo Callista,,,Ahmad Sumarsono,Suhindro Awitno,PATI,,,,,,SARJUGO
+2022,6,ENDRIG SUHANDOKO,Cabang (1.000),"Rt 01 Rw 04 Ds. Mojoagung, Kec. Pucakwangi, Kab. Pati","18,000",Garansi,CLOSED,Ahmad Sumarsono,Suhindro Awitno,Widodo Callista,,,Ahmad Sumarsono,Suhindro Awitno,PATI,,,,,,ENDRIG SUHANDOKO
+2022,6,KHOZIN HASAN B,Cabang (1.000),Ds. Slendra Kec. Gegesik Kab. Cirebon,"36,000",Cost Plus,SEMI,Jamal Abdul Naseh,Nata Alamsyah,Widodo Callista,,,Jamal Abdul Naseh,Nata Alamsyah,CIREBON,,,,,,KHOZIN HASAN
+2022,6,INTAN PURNOMO,Cabang (1.000),Ds. Bangunsana Kec. Suradadi Kab. Tegal,"20,000",Cost Plus,SEMI,Jamal Abdul Naseh,Nata Alamsyah,Widodo Callista,,,Jamal Abdul Naseh,Nata Alamsyah,CIREBON,,,,,,INTAN PURNOMO
+2022,6,CECEP SUHARTONO A,Cabang (1.000),Ds. Cirea Kec. Mandirancan Kab. Kuningan,"12,000",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,CECEP SUHARTONO
+2022,6,CECEP SUHARTONO B,Cabang (1.000),Ds. Cirea Kec. Mandirancan Kab. Kuningan,"7,000",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,CECEP SUHARTONO
+2022,3,ABDULOH A,Cabang (1.000),Ds. Cirea Kec. Mandirancan Kab. Kuningan,"14,000",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,ABDULLOH
+2022,3,ABDULOH B,Cabang (1.000),Ds. Cirea Kec. Mandirancan Kab. Kuningan,"14,000",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,ABDULLOH
+2022,6,KAYATI A,Cabang (1.000),"Rt 02 Rw 02 Ds. Jimbaran Kec. Kayen
+ Kab. Pati","8,500",Garansi,CLOSED,Ahmad Sumarsono,Suhindro Awitno,Widodo Callista,,,Ahmad Sumarsono,Suhindro Awitno,PATI,,,,,,KAYATI
+2022,6,KAYATI B,Cabang (1.000),"Rt 02 Rw 02 Ds. Jimbaran Kec. Kayen
+ Kab. Pati","8,500",Garansi,CLOSED,Ahmad Sumarsono,Suhindro Awitno,Widodo Callista,,,Ahmad Sumarsono,Suhindro Awitno,PATI,,,,,,KAYATI
+2022,6,SADULLAH,Cabang (1.000),"Rt 04 Rw 02 Ds. Jimbaran Kec. Kayen
+ Kab. Pati","9,500",Garansi,CLOSED,Ahmad Sumarsono,Suhindro Awitno,Widodo Callista,,,Ahmad Sumarsono,Suhindro Awitno,PATI,,,,,,SADULLAH
+2022,6,ENOK AISAH D,Cabang (1.000),Ds. Telaga Kulon Kec. Talaga Kab. Majalengka,"8,000",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,ENOK AISAH
+2022,6,H. ADIH,HO (1.500),"Kp. Cilongok, Ds. Daon, Kec. Rejeg Tangerang","8,000",Cost Plus,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,,,,,,H. ADIH
+2022,6,AGUS,Cabang (1.000),Ds. Randegan Kulon Kec. Jatitujuh Kab. Majalengka,"9,000",Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,,,,,,AGUS
+2022,6,DEWI NURGAIRAH (NZF),HO (1.500),"Kampung Sukawali, Kec. Labuan, Pandeglang Banten","54,000",Own Farm,CLOSED,Sueb Ekalana ( RnD),Ipung,Ipung,,,Eko ,Ipung,HO,,,,,,DEWI NURGAIRAH
+2022,6,RUWIT MULYADI,Cabang (1.000),"Girikerto, Turi, Sleman","4,000",Garansi,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,Dwi Santoso,Soleh,SOLO,9,2022,,,,RUWIT MULYADI
+2022,6,ENOK AISAH E,Cabang (1.000),Ds. Talaga Kulon Kec. Talaga Kab. Majalengka,"7,000",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,ENOK AISAH
+2022,6,MULYADI,Cabang (1.000),"Pepe, Muntilan, Muntilan, Magelang","6,500",Garansi,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,Dwi Santoso,Soleh,SOLO,,,,,,MULYADI
+2022,6,CITAPEN FARM 1,HO (1.500),"Kp Citapen, Ds Ciuyah,Kec Sajira Kab Lebak","29,000",Own Farm,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,,,,,,CITAPEN FARM
+2022,6,CITAPEN FARM 2,HO (1.500),"Kp Citapen, Ds Ciuyah,Kec Sajira Kab Lebak","41,000",Own Farm,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,,,,,,CITAPEN FARM
+2022,7,NOVI BAGASKARA C,Cabang (1.000),Ds. Sukaparna Kec. Talaga Kab. Majalengka,"9,000",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,NOVI BAGASKARA
+2022,7,RAGIL WAHYU A,Cabang (1.000),Rt 06 Rw 01 Ds. Tambaharjo Kec. Tambakromo Kab. Pati,"18,000",Garansi,CLOSED,Ahmad Sumarsono,Suhindro Awitno,Widodo Callista,,,Ahmad Sumarsono,Suhindro Awitno,PATI,9,2022,,,,RAGIL WAHYU
+2022,7,RAGIL WAHYU B,Cabang (1.000),Rt 06 Rw 01 Ds. Tambaharjo Kec. Tambakromo Kab. Pati,"18,000",Garansi,CLOSED,Ahmad Sumarsono,Suhindro Awitno,Widodo Callista,,,Ahmad Sumarsono,Suhindro Awitno,PATI,9,2022,,,,RAGIL WAHYU
+2022,7,SUMANTRI,Cabang (1.000),"Dusun Ngajen, Desa Donan, Kec. Purwosari, Bojonegoro","16,500",Garansi,CLOSED,Suci Dwi Arianto,Bayu Sutomo,Yohanes Budi,,,Suci Dwi Arianto,Bayu Sutomo,TUBAN,,,,,,SUMANTRI
+2022,7,DWI AGUS BUDIYONO,Cabang (1.000),"Dusun Kenongo Lor, Desa Kenongosari, Kec. Soko, Tuban","5,500",Garansi,SEMI,Suci Dwi Arianto,Bayu Sutomo,Yohanes Budi,,,Suci Dwi Arianto,Bayu Sutomo,TUBAN,,,,,,DWI AGUS BUDIYONO
+2022,7,IMRON,HO (1.500),"Kp. Ciherang Mesjid, Ds. Ciherang, Kec. Gunung Sari- Serang","20,000",Cost Plus,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,9,2022,,,,IMRON
+2022,7,IDRUS UBAIDI,HO (1.500),"Kp Rejeg,Ds Binong,Kec Maja,Lebak","10,000",Cost Plus,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Warsito,Warsito,HO,,,,,,IDRUS UBAIDI
+2022,7,ANI PUSPITASARI A,Cabang (1.000),"Ngargotirto, Sumberlawang, Sragen","36,000",Garansi,CLOSED,Chandra Agustama,Soleh,Widodo Callista,,,Chandra Agustama,Soleh,SOLO,,,,,,ANI PUSPITASARI 
+2022,7,ANI PUSPITASARI B,Cabang (1.000),"Ngargotirto, Sumberlawang, Sragen","54,000",Garansi,CLOSED,Chandra Agustama,Soleh,Widodo Callista,,,Chandra Agustama,Soleh,SOLO,,,,,,ANI PUSPITASARI 
+2022,7,AHMAD MUARIF RIFAN B,Cabang (1.000),Rt 04 Rw 01 Ds. Jimbaran Kec. Kayen Kab. Pati ,"9,000",Garansi,CLOSED,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,9,2022,,,,AHMAD MUARIF RIFAN
+2022,7,ROY I LEONARDO SIANIPAR,HO (1.500),"Mekarmukti, Kel. Cikarang Utara, Bekasi","40,000",Cost Plus,SEMI,Dedy Prayitno,Muhammad Khaerudin,Widodo Callista,,,Dedy Prayitno,Muhammad Khaerudin,HO,,,,,,ROY I LEONARDO SIANIPAR
+2022,7,MARIA AGUSTINA KESUMA,HO (1.500),"Kp. Jangkar, Ds. Mekarwangi, Kec. Cariu, Kab.Bogor","22,000",Cost Plus,SEMI,Purnomo Sidiq,Nanang Prihanto,Widodo Callista,,,Purnomo Sidiq,Nanang Prihanto,HO,,,,,,MARIA AGUSTINA KESUMA
+2022,7,MARJUKI A,Cabang (1.000),"Ds Ngloram, Kec. Cepu, Blora","28,000",Garansi,CLOSED,Suci Dwi Arianto,Bayu Sutomo,Yohanes Budi,,,Suci Dwi Arianto,Bayu Sutomo,TUBAN,,,,,,MARJUKI
+2022,7,SOMMY GUNAWAN M2 A,Cabang (1.000),Ds. Muarareja Kec. Tegal Barat Kota Tegal,"60,000",Cost Plus,CLOSED,Jamal Abdul Naseh,Nata Alamsyah,Widodo Callista,,,Jamal Abdul Naseh,Nata Alamsyah,CIREBON,,,,,,SOMMY GUNAWAN
+2022,7,HJ. MASAMAH,HO (1.500),"Kp. Nagreg, Ds. Dukuh, Kec. Keragilan, Serang","8,000",Cost Plus,SEMI,Warsito,Warsito,Widodo Callista,,,Warsito,Warsito,HO,,,,,,HJ. MASAMAH
+2022,7,IMRON ZAENURI,Cabang (1.000),"Desa Mrenung, Kec. Cepu, Kab.Blora","27,000",Garansi,CLOSED,Suci Dwi Arianto,Bayu Sutomo,Yohanes Budi,,,Suci Dwi Arianto,Bayu Sutomo,TUBAN,,,,,,IMRON ZAENURI
+2022,7,MARJUKI A,Cabang (1.000),"Ds Ngloram, Kec. Cepu, Blora","28,000",Garansi,CLOSED,Suci Dwi Arianto,Bayu Sutomo,Yohanes Budi,,,Suci Dwi Arianto,Bayu Sutomo,TUBAN,,,,,,MARJUKI
+2022,7,AGUS SUHENDAR B,HO (1.500),"Kp. Patambaran, Atang Sanjaya, Kemang, Bogor","6,000",Cost Plus,SEMI,Suma,Muhammad Khaerudin,Widodo Callista,,,Suma,Muhammad Khaerudin,HO,,,,,,AGUS SUHENDAR
+2022,7,H. MAHLUDIN RAIS,HO (1.500),"Kp. Bendungan  Kec. Caringin, Kab Bogor","18,000",Cost Plus,SEMI,Suma,Muhammad Khaerudin,Widodo Callista,,,Suma,Muhammad Khaerudin,HO,,,,,,H. MAHLUDIN RAIS
+2022,7,TAUFIQQUROCHMAN,Cabang (1.000),"Drojogan Rt 03/02, Adikarto, Muntilan, Magelang","8,000",Garansi,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,Dwi Santoso,Soleh,SOLO,,,,,,TAUFIQQUROCHMAN
+2022,7,MARJUKI B,Cabang (1.000),"Ds Ngloram, Kec. Cepu, Blora","25,000",Garansi,CLOSED,Suci Dwi Arianto,Bayu Sutomo,Yohanes Budi,,,Suci Dwi Arianto,Bayu Sutomo,TUBAN,,,,,,MARJUKI
+2022,7,SUCIPTO ( TUBAN ),Cabang (1.000),"Desa Kenongosari, Kec. Soko, Tuban","25,000",Garansi,CLOSED,Fajar Yoga Wicaksono,Bayu Sutomo,Yohanes Budi,,,Fajar Yoga Wicaksono,Bayu Sutomo,TUBAN,,,,,,SUCIPTO
+2022,7,MITROATIN,Cabang (1.000),"Dsn Panjang, Ds Panjang, Kec. Kedungadem, Bojonegoro","18,000",Garansi,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,,,,,,MITROATIN
+2022,7,ELITTA  PURWATININGSIH,Cabang (1.000),"Dusun Bakalan, Desa Tegalrejo, Kec. Merakurak, Tuban","4,000",Garansi,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,,,,,,ELITTA PURWATININGSIH
+2022,7,SOMMY GUNAWAN M2 B,Cabang (1.000),Ds. Muarareja Kec. Tegal Barat Kota Tegal,"60,000",Cost Plus,CLOSED,Jamal Abdul Naseh,Nata Alamsyah,Widodo Callista,,,Jamal Abdul Naseh,Nata Alamsyah,CIREBON,,,,,,SOMMY GUNAWAN
+2022,7,SOMMY GUNAWAN M2 C,Cabang (1.000),Ds. Muarareja Kec. Tegal Barat Kota Tegal,"60,000",Cost Plus,CLOSED,Jamal Abdul Naseh,Nata Alamsyah,Widodo Callista,,,Jamal Abdul Naseh,Nata Alamsyah,CIREBON,,,,,,SOMMY GUNAWAN
+2022,7,SUWARDI A,Cabang (1.000),Pasarbatang Kab Brebes,"8,000",Garansi,SEMI,Muhamad Rusdi,Agus Kisworo,Widodo Callista,,,Muhamad Rusdi,Agus Kisworo,TEGAL,,,,,,SUWARDI
+2022,7,SUWARDI B,Cabang (1.000),Pasarbatang Kab Brebes,"8,000",Garansi,SEMI,Muhamad Rusdi,Agus Kisworo,Widodo Callista,,,Muhamad Rusdi,Agus Kisworo,TEGAL,,,,,,SUWARDI
+2022,7,IBNU KOMARA,Cabang (1.000),",Dukuhturi Ketanggungan Brebes","33,000",Garansi,SEMI,Rendi Darmawan,Agus Kisworo,Widodo Callista,,,Muhamad Rusdi,Agus Kisworo,TEGAL,,,,,,IBNU KOMARA
+2022,7,M. SUTONO,Cabang (1.000),"Somoroto Rt 01/05, Tlogoguwo, Kaligesing, Purworejo","7,000",Garansi,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,Dwi Santoso,Soleh,SOLO,,,,,,M. SUTONO
+2022,7,ABU ROIS FAHRUDY A,Cabang (1.000),"Rt 07 Rw 01 Ds. Sumur Kec. Cluwak 
+ Kab. Pati","16,000",Garansi,CLOSED,Ahmad Sumarsono,Suhindro Awitno,Widodo Callista,,,Ahmad Sumarsono,Suhindro Awitno,PATI,,,,,,ABU ROIS FAHRUDY
+2022,7,ABU ROIS FAHRUDY B,Cabang (1.000),"Rt 07 Rw 01 Ds. Sumur Kec. Cluwak 
+ Kab. Pati","6,000",Garansi,CLOSED,Ahmad Sumarsono,Suhindro Awitno,Widodo Callista,,,Ahmad Sumarsono,Suhindro Awitno,PATI,,,,,,ABU ROIS FAHRUDY
+2022,7,DEDI SANTOSO,Cabang (1.000),"Kalibakung, Guci Kab Tegal","36,000",Garansi,CLOSED,Winarno,Agus Kisworo,Widodo Callista,,,Winarno,Agus Kisworo,TEGAL,,,,,,DEDI SANTOSO
+2022,7,FERDI DARMAWAN,Cabang (1.000),Ds. Sukasari Kec. Mandirancan Kab. Kuningan,"  8,000 ",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,FERDI DARMAWAN
+2022,7,PULUNG BUSTOMI BACHTIAR A,Cabang (1.000),"Desa Magersari, Kec. Plumpang, Tuban","  18,000 ",Garansi,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,,,,,,PULUNG BUSTOMI BACHTIAR
+2022,7,PULUNG BUSTOMI BACHTIAR B,Cabang (1.000),"Desa Magersari, Kec. Plumpang, Tuban","  18,000 ",Garansi,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,,,,,,PULUNG BUSTOMI BACHTIAR
+2022,7,PULUNG BUSTOMI BACHTIAR C,Cabang (1.000),"Desa Magersari, Kec. Plumpang, Tuban","  18,000 ",Garansi,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suci Dwi Arianto,Bayu Sutomo,TUBAN,,,,,,PULUNG BUSTOMI BACHTIAR
+2022,7,HARTATIK A,Cabang (1.000),"Dusun Kradenanrejo, Desa Kradenan, Kec. Kedungpring, Lamongan","  14,000 ",Cost Plus,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,,,,,,HARTATIK
+2022,7,SUTIONO,Cabang (1.000),"Dsn Tambakmerak, Desa Baturono, Kec. Kasiman, Bojonegoro","  20,000 ",Garansi,CLOSED,Suci Dwi Arianto,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,,,,,,SUTIONO
+2022,8,KASIATUN,Cabang (1.000),Pojok Rt 002 Rw 001 Ds Selosari Kec Kandat Kab Kediri,"5,000",Garansi,SEMI,Heru Cahyono,Zainul Arifin,Yohanes Budi,,,Heru Cahyono,Zainul Arifin,KEDIRI,,,,,,KASIATUN
+2022,8,HAFID RUDIANTO,Cabang (1.000),Purwodadi Ringinrejo Rt 06 Rw 04 Kab Kediri,"5,000",Garansi,SEMI,Heru Cahyono,Zainul Arifin,Yohanes Budi,,,Heru Cahyono,Zainul Arifin,KEDIRI,,,,,,HAFID RUDIANTO
+2022,8,SITI UMAYAH,Cabang (1.000),Dsn Sukorejo Ds Wonorejo Rt 12 Rw 3 Kec Wates Kab Kediri,"  17,000 ",Garansi,SEMI,Pebrian Nan Jaya Putra,Zainul Arifin,Yohanes Budi,,,Pebrian Nan Jaya Putra,Zainul Arifin,KEDIRI,10,2022,,,,SITI UMAYAH
+2022,8,GUNAWAN,Cabang (1.000),"Talun Rt 01/06, Jati, Sawangan, Magelang","  11,000 ",Garansi,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,Dwi Santoso,Soleh,SOLO,,,,,,GUNAWAN
+2022,8,PARJIYO A,Cabang (1.000),"Ngipik, Kentengrejo, Purwodadi, Purworejo","  13,000 ",Garansi,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,Dwi Santoso,Soleh,SOLO,,,,,,PARJIYO
+2022,8,PARJIYO B,Cabang (1.000),"Ngipik, Kentengrejo, Purwodadi, Purworejo","  11,000 ",Garansi,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,Dwi Santoso,Soleh,SOLO,,,,,,PARJIYO
+2022,8,DWI HARYANTO,Cabang (1.000),"Dukuh Pancuran Ds. Wates 
+ Kec. Kedungjati Kab. Grobogan","  30,000 ",Cost Plus,SEMI,Rifanto,Suhindro Awitno,Widodo Callista,,,Rifanto,Suhindro Awitno,PATI,,,,,,DWI HARYANTO
+2022,8,H. UMAR SALIM A,Cabang (1.000),Rt 01 Rw 02 Ds. Tanggungharjo Kec. Tanggungharjo Kab. Grobogan,"  18,000 ",Garansi,SEMI,Rifanto,Suhindro Awitno,Widodo Callista,,,Rifanto,Suhindro Awitno,PATI,,,,,,H. UMAR SALIM
+2022,8,H. UMAR SALIM B,Cabang (1.000),Rt 01 Rw 02 Ds. Tanggungharjo Kec. Tanggungharjo Kab. Grobogan,"  16,000 ",Garansi,SEMI,Rifanto,Suhindro Awitno,Widodo Callista,,,Rifanto,Suhindro Awitno,PATI,,,,,,H. UMAR SALIM
+2022,8,RUDIANTO,Cabang (1.000),Dsn Pule Utara Rt 4 Rw 6 Kec Kadat Kab Kediri,"  10,000 ",Garansi,SEMI,Heru Cahyono,Zainul Arifin,Yohanes Budi,,,Heru Cahyono,Zainul Arifin,KEDIRI,,,,,,RUDIANTO
+2022,8,AGUS SETIAWAN C,HO (1.500),Kp. Nagreg Ds. Parage  Kec. Cilukur Kabupaten Lebak,"  20,000 ",Cost Plus,SEMI,Hendra Firdaus,Endri Suhendri,Widodo Callista,,,Hendra Firdaus,Endri Suhendri,HO,,,,,,AGUS SETIAWAN
+2022,8,SONI PRAYOGA,Cabang (1.000),"Nyalembeng, Pulosari Pemalang","  10,000 ",Garansi,SEMI,Winarno,Agus Kisworo,Widodo Callista,,,Winarno,Agus Kisworo,TEGAL,,,,,,SONI PRAYOGA
+2022,8,SUWIGNYO,Cabang (1.000),"Gunungsari, Pulosari Kab Pemalang","  12,000 ",Garansi,SEMI,Winarno,Agus Kisworo,Widodo Callista,,,Winarno,Agus Kisworo,TEGAL,,,,,,SUWIGNYO
+2022,8,ROSID,Cabang (1.000),"Jatilaba , Margasari Kab Tegal","  10,000 ",Garansi,SEMI,Muhamad Rusdi,Agus Kisworo,Widodo Callista,,,Muhamad Rusdi,Agus Kisworo,TEGAL,,,,,,ROSIDIN
+2022,8,WASIDIN A,Cabang (1.000),"Tonjong, Brebes","  16,000 ",Cost Plus,CLOSED,Rendi Darmawan,Agus Kisworo,Widodo Callista,,,Rendi Darmawan,Agus Kisworo,TEGAL,,,,,,WASIDIN
+2022,8,NURSOBAH A,Cabang (1.000),Ds. Talaga Kulon Kec. Talaga Kab. Majalengka,"  26,000 ",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,NURSOBAH
+2022,8,NURSOBAH B,Cabang (1.000),Ds. Talaga Kulon Kec. Talaga Kab. Majalengka,"  22,000 ",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,NURSOBAH
+2022,8,ABDUL MAJID A,Cabang (1.000),Ds. Girimulya Kec. Banjaran Kab. Majalengka,"  14,000 ",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,ABDUL MAJID
+2022,8,ABDUL MAJID B,Cabang (1.000),Ds. Girimulya Kec. Banjaran Kab. Majalengka,"  8,000 ",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,ABDUL MAJID
+2022,8,HARTATIK B,Cabang (1.000),"Dusun Kradenanrejo, Desa Kradenan, Kec. Kedungpring, Lamongan","  10,000 ",Cost Plus,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,,,,,,HARTATIK
+2022,8,M. AGUS SIBAWEIH,Cabang (1.000),"Ds Tangkir, Kec. Malo, Bojonegoro","  18,000 ",Garansi,CLOSED,Fajar Yoga Wicaksono,Bayu Sutomo,Yohanes Budi,,,Fajar Yoga Wicaksono,Bayu Sutomo,TUBAN,,,,,,M. AGUS SIBAWEIH
+2022,8,KAHARYANTO,Cabang (1.000),"Dsn Beron, Ds Punggulrejo, Rengel, Tuban","  15,000 ",Garansi,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,,,,,,KAHARYANTO
+2022,8,AHMAD DAKAM,Cabang (1.000),"Ds Kapuan, Kec. Cepu, Blora","  7,000 ",Garansi,CLOSED,Suci Dwi Arianto,Bayu Sutomo,Yohanes Budi,,,Suci Dwi Arianto,Bayu Sutomo,TUBAN,,,,,,AHMAD DAKAM
+2022,8,NUR HALIMAH B,Cabang (1.000),Ds. Bakung Lor Kec. Jamblang Kab. Cirebon,"  18,000 ",Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,,,,,,NUR HALIMAH
+2022,8,NGAISAH,Cabang (1.000),Dukuh Kliteh Ds. Bogoharjo Kec. Kaliori Kab. Rembang,"  14,000 ",Cost Plus,SEMI,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,,,,,,NGAISAH
+2022,8,MUHAMMAD GHOZALI A,Cabang (1.000),Ds. Tambakan Kec. Gubug Kab. Grobogan,"  25,000 ",Cost Plus,SEMI,Rifanto,Suhindro Awitno,Widodo Callista,,,Rifanto,Suhindro Awitno,PATI,,,,,,MUHAMMAD GHOZALI
+2022,8,DIYAH AYU SUSILOWATI A,Cabang (1.000),Ds. Sukorejo Kec. Tegowanu Kab. Grobogan,"  20,000 ",Cost Plus,SEMI,Rifanto,Suhindro Awitno,Widodo Callista,,,Rifanto,Suhindro Awitno,PATI,,,,,,DIYAH AYU SUSILOWATI
+2022,8,RACHMAD DANI IRWANTO A ,Cabang (1.000),Ds Kedung Padang Rt 1 Rw 4 Kel Kedung Padang Kec Rejoso Kab Nganjuk,"  32,000 ",Cost Plus,SEMI,Pebrian Nan Jaya Putra,Zainul Arifin,Yohanes Budi,,,Pebrian Nan Jaya Putra,Zainul Arifin,KEDIRI,,,,,,RACHMAD DANI IRWANTO
+2022,8,RACHMAD DANI IRWANTO B ,Cabang (1.000),Ds Kedung Padang Rt 1 Rw 4 Kel Kedung Padang Kec Rejoso Kab Nganjuk,"  18,000 ",Cost Plus,SEMI,Pebrian Nan Jaya Putra,Zainul Arifin,Yohanes Budi,,,Pebrian Nan Jaya Putra,Zainul Arifin,KEDIRI,,,,,,RACHMAD DANI IRWANTO
+2022,8,BAHRU ROHIM,Cabang (1.000),Desa Ngangkatan Rt 2 Rw 2 Dsn Ngangkatan Rejoso Nganjuk,"  16,000 ",Cost Plus,SEMI,Pebrian Nan Jaya Putra,Zainul Arifin,Yohanes Budi,,,Pebrian Nan Jaya Putra,Zainul Arifin,KEDIRI,,,,,,BAHRO ROHIM
+2022,8,AGUS TOMI A,Cabang (1.000),Bumijawa Guci Kab Tegal,"  35,000 ",Garansi,CLOSED,Winarno,Agus Kisworo,Widodo Callista,,,Winarno,Agus Kisworo,TEGAL,,,,,,AGUS TOMI
+2022,8,AGUS TOMI B,Cabang (1.000),Bumijawa Guci Kab Tegal,"  25,000 ",Garansi,CLOSED,Winarno,Agus Kisworo,Widodo Callista,,,Winarno,Agus Kisworo,TEGAL,,,,,,AGUS TOMI
+2022,8,AGUS TOMI C,Cabang (1.000),Bumijawa Guci Kab Tegal,"  25,000 ",Garansi,CLOSED,Winarno,Agus Kisworo,Widodo Callista,,,Warsito,Agus Kisworo,TEGAL,,,,,,AGUS TOMI
+2022,8,MUHAMAD MAHDUM,Cabang (1.000),Ds. Jragung Kec. Karangawen Kab. Demak,"  17,000 ",Garansi,SEMI,Rifanto,Suhindro Awitno,Widodo Callista,,,Rifanto,Suhindro Awitno,PATI,,,,,,MUHAMAD MAHDUM
+2022,8,AGUSTINUS HENDRO A,Cabang (1.000),"Bulu, Tawangsari, Kaligesing, Purworejo","  6,000 ",Garansi,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,Dwi Santoso,Soleh,SOLO,,,,,,AGUSTINUS HENDRO
+2022,8,AGUSTINUS HENDRO B,Cabang (1.000),"Bulu, Tawangsari, Kaligesing, Purworejo","  5,000 ",Garansi,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,Dwi Santoso,Soleh,SOLO,,,,,,AGUSTINUS HENDRO
+2022,8,PUJIATI,Cabang (1.000),"Ds Brawoan, Kec. Sambong, Blora","  34,000 ",Garansi,CLOSED,Suci Dwi Arianto,Bayu Sutomo,Yohanes Budi,,,Suci Dwi Arianto,Bayu Sutomo,TUBAN,,,,,,PUJIATI
+2022,8,ARYA SATRIA YOGA,Cabang (1.000),"Ds Cengkir, Kec. Kepohbaru, Bojonegoro","  16,000 ",Cost Plus,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,,,,,,ARYA SATRIA YOGA
+2022,8,RUSYAD FIRDAUSI A,Cabang (1.000),"Dsn Serning, Gunungsari, Baureno, Bojonegoro","  20,000 ",Garansi,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,,,,,,RUSYAD FURDAUSI
+2022,8,SHOLIKIN A,Cabang (1.000),"Ds Kaligede, Kec. Senori, Tuban","  24,000 ",Garansi,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,,,,,,SHOLIKIN
+2022,8,SHOLIKIN B,Cabang (1.000),"Ds Kaligede, Kec. Senori, Tuban","  24,000 ",Garansi,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,,,,,,SHOLIKIN
+2022,8,SUPRIYONO,Cabang (1.000),Ds. Tirem Kec. Brati Kab. Grobogan,"  13,000 ",Garansi,SEMI,Rifanto,Suhindro Awitno,Widodo Callista,,,Rifanto,Suhindro Awitno,PATI,,,,,,SUPRIYONO
+2022,8,DIYAH AYU SUSILOWATI B,Cabang (1.000),Ds. Medani Kec. Tegowanu Kab. Grobogan,"  18,000 ",Cost Plus,SEMI,Rifanto,Suhindro Awitno,Widodo Callista,,,Rifanto,Suhindro Awitno,PATI,,,,,,DIYAH AYU SUSILOWATI
+2022,8,DIYAH AYU SUSILOWATI C,Cabang (1.000),Ds. Medani Kec. Tegowanu Kab. Grobogan,"  12,000 ",Cost Plus,SEMI,Rifanto,Suhindro Awitno,Widodo Callista,,,Rifanto,Suhindro Awitno,PATI,,,,,,DIYAH AYU SUSILOWATI
+2022,8,ACEP ANDRIYAWAN,Cabang (1.000),Ds. Burujul Kulon Kec. Jatiwangi Kab. Majalengka,"  29,000 ",Garansi,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,,,,,,ACEP ANDRIYAWAN
+2022,8,NANA SURYANA,HO (1.500),"Kp. Janaka, Ds. Jayamekar, Kec. Jiput , Pandegang","  8,000 ",Cost Plus,SEMI,Abdul Rohim,Endri Suhendri,Widodo Callista,,,Abdul Rohim,Endri Suhendri,HO,,,,,,NANA SURYANA
+2022,8,IYUS M YUSUP,HO (1.500),"Kp. Bojong Hejo Lebak, Ds. Sukasari, Kec. Pulosari, Pandeglang","  6,000 ",Cost Plus,SEMI,Abdul Rohim,Endri Suhendri,Widodo Callista,,,Abdul Rohim,Endri Suhendri,HO,,,,,,IYUS M YUSUP
+2022,8,IIS INDRI YANIH B,HO (1.500),"Kembang Kuning, Jasinga, Bogor","  19,000 ",Garansi,SEMI,Suma,Muhammad Khaerudin,Widodo Callista,,,Suma,Endri Suhendri,HO,,,,,,IIS INDRI YANIH
+2022,8,WASIDIN B,Cabang (1.000),"Tonjong, Kab Brebes","  16,000 ",Cost Plus,SEMI,Rendi Darmawan,Agus Kisworo,Widodo Callista,,,Rendi Darmawan,Agus Kisworo,TEGAL,,,,,,WASIDIN
+2022,8,SUKARTINAH A,Cabang (1.000),"Karang Rt 29/11, Jatisarono, Nanggulan, Kulon Progo, Yogyakarta","  11,000 ",Garansi,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,Dwi Santoso,Soleh,SOLO,,,,,,SUKARTINAH
+2022,8,SAEFUL AZAM,Cabang (1.000),"Dusun Karangtengah Warungpring, Kab Pemalang","  24,000 ",Cost Plus,SEMI,Winarno,Agus Kisworo,Widodo Callista,,,Winarno,Agus Kisworo,TEGAL,,,,,,SAEFUL AZAM
+2022,8,TOTO HENDARTO,Cabang (1.000),"Pakulaut, Margasari , Kab Tegal","  14,000 ",Garansi,CLOSED,Muhamad Rusdi,Agus Kisworo,Widodo Callista,,,Muhamad Rusdi,Agus Kisworo,TEGAL,,,,,,TOTO HENDARTO
+2022,8,NURSOBAH C,Cabang (1.000),Ds. Ciluwuk Kec. Kalimanggis Kab. Kuningan,"  50,000 ",Cost Plus,CLOSED,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,NURSOBAH
+2022,8,NURSOBAH D,Cabang (1.000),Ds. Ciluwuk Kec. Kalimanggis Kab. Kuningan,"  45,000 ",Cost Plus,CLOSED,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,NURSOBAH
+2022,8,ADI MUHAMAD MUSHIDI,Cabang (1.000),Ds. Sukaraja Kec. Ciawi Gebang Kab. Kuningan,"  8,000 ",Cost Plus,SEMI,Jamal Abdul Naseh,Nata Alamsyah,Widodo Callista,,,Jamal Abdul Naseh,Nata Alamsyah,CIREBON,,,,,,ADI MUHAMAD MUSHIDI
+2022,8,FAZIL ICHWANUDIN,Cabang (1.000),Ds. Babakan Anyar Kec. Kadipaten Kab. Majalengka,"  12,000 ",Garansi,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,,,,,,FAZIL ICHWANUDIN
+2022,8,OMAN FAOJI A,HO (1.500),"Kp. Cikoneng, Rt 01/Rw 04, Desa Sipayung, Kec. Sukajaya, Kab. Bogor","  6,000 ",Cost Plus,SEMI,Suma,Muhammad Khaerudin,Widodo Callista,,,Suma,Muhammad Khaerudin,HO,,,,,,OMAN FAOJI
+2022,8,WURIASIH FITROTUN,Cabang (1.000),Dsn Patilaler Rt 001 Rw 001 Desa Deyeng Ringin Rejo Kab Kediri,"  4,000 ",Garansi,OPEN,Pebrian Nan Jaya Putra,Zainul Arifin,Yohanes Budi,,,Pebrian Nan Jaya Putra,Zainul Arifin,KEDIRI,,,,,,WURIASIH FITROTUN
+2022,8,RIAZMY LAZARI YUSRIFAR,Cabang (1.000),"Gambuhan, Pulosari Kab Pemalang","  10,000 ",Garansi,SEMI,Winarno,Agus Kisworo,Widodo Callista,,,Winarno,Agus Kisworo,TEGAL,,,,,,RIAZMY LAZARI YUSRIFAR
+2022,8,NURUL HIDAYAH,Cabang (1.000),"Dk Bulu Rt: 02, Area Sawah/Kebun, Karanganyar, Sambungmacan, Sragen","  22,000 ",Garansi,SEMI,Chandra Agustama,Soleh,Widodo Callista,,,Chandra Agustama,Soleh,SOLO,,,,,,NURUL HIDAYAH
+2022,8,RINI KRISTYAWATI A,Cabang (1.000),"Plarangan Rt: 02/01, Hargorojo, Bagelen, Purworejo","  13,000 ",Garansi,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,Dwi Santoso,Soleh,SOLO,,,,,,RINI KRISTYAWATI
+2022,8,RINI KRISTYAWATI B,Cabang (1.000),"Plarangan Rt: 02/01, Hargorojo, Bagelen, Purworejo","  12,000 ",Garansi,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,Dwi Santoso,Soleh,SOLO,,,,,,RINI KRISTYAWATI
+2022,8,SHOLIKIN C,Cabang (1.000),"Ds Kaligede, Kec. Senori, Tuban","  20,000 ",Garansi,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,,,,,,SHOLIKIN
+2022,8,MARJUKI C,Cabang (1.000),"Ds Ngloram, Kec. Cepu, Blora","  23,000 ",Garansi,CLOSED,Suci Dwi Arianto,Bayu Sutomo,Yohanes Budi,,,Suci Dwi Arianto,Bayu Sutomo,TUBAN,,,,,,MARJUKI
+2022,8,MUNTOHAR A,Cabang (1.000),"Ds Tenger, Kec. Kedungpring, Lamongan","  20,000 ",Garansi,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,11,22,,,,MUNTOHAR
+2022,8,MUNTOHAR B,Cabang (1.000),"Ds Tenger, Kec. Kedungpring, Lamongan","  15,000 ",Garansi,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,11,22,,,,MUNTOHAR
+2022,8,MARIA ULFA,Cabang (1.000),Suradadi Kab Tegal,"  20,000 ",Garansi,CLOSED,Muhamad Rusdi,Agus Kisworo,Widodo Callista,,,Muhamad Rusdi,Agus Kisworo,TEGAL,,,,,,MARIA ULFA
+2022,8,AHMAD SAEFUDIN A,Cabang (1.000),"Padaharja, Suradadi Kab Tegal","  18,000 ",Garansi,SEMI,Winarno,Agus Kisworo,Widodo Callista,,,Winarno,Agus Kisworo,TEGAL,,,,,,AHMAD SAEFUDIN
+2022,8,UNTUNG PUJIONO,Cabang (1.000),Ds. Sukorejo Kec. Tegowanu Kab. Grobogan,"  14,000 ",Garansi,SEMI,Rifanto,Suhindro Awitno,Widodo Callista,,,Rifanto,Suhindro Awitno,PATI,,,,,,UNTUNG PUJIONO
+2022,8,HUMAEDI,HO (1.500), Kp. Monggor Kadu Bajo Des. Sukamanah Kec. Jiput Kab. Pandeglang Banten,"  7,000 ",Cost Plus,SEMI,Abdul Rohim,Endri Suhendri,Widodo Callista,,,Abdul Rohim,Endri Suhendri,HO,,,,,,HUMAEDI
+2022,8,FABIO FARM A,HO (1.500),"Kp. Kandang Sapi, Desa Kandang Sapi, Kab Lebak Banten","  37,000 ",Garansi,CLOSED,Abdul Rohim,Endri Suhendri,Widodo Callista,,,Abdul Rohim,Endri Suhendri,HO,,,,,,FABIO
+2022,8,H. JAENUDIN A,HO (1.500),"Kp Sumpit,Ds Gandasari,Kec Jatiuwung Kab Tangerang Kota","  21,500 ",Garansi,CLOSED,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,,,,,,H. JAENUDIN
+2022,8,H. JAENUDIN B,HO (1.500),"Kp Sumpit,Ds Gandasari,Kec Jatiuwung Kab Tangerang Kota","  12,500 ",Garansi,CLOSED,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,,,,,,H. JAENUDIN
+2022,8,H. JAENUDIN C,HO (1.500),"Kp Sumpit,Ds Gandasari,Kec Jatiuwung Kab Tangerang Kota","  26,000 ",Garansi,CLOSED,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,,,,,,H. JAENUDIN
+2022,8,RUSLAN,Cabang (1.000),"Ds Wonosari, Kec. Soko, Tuban","  18,000 ",Garansi,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,,,,,,RUSLAN
+2022,8,MUHAMMAD YUSUF FADHIL SALASA,Cabang (1.000),Dsn Bendosarirt/Rw 02/01 Ds Bendosari Kec Kras Kab Kediri,"  21,000 ",Cost Plus,CLOSED,Pebrian Nan Jaya Putra,Zainul Arifin,Yohanes Budi,,,Pebrian Nan Jaya Putra,Zainul Arifin,KEDIRI,,,,,,MUHAMMAD YUSUF FADHIL SALASA
+2022,8,MARDIYAH,Cabang (1.000),Dsn Pule Utara Ds Pule Kec Kandat Kab Kediri,"  5,000 ",Garansi,OPEN,Heru Cahyono,Zainul Arifin,Yohanes Budi,,,Heru Cahyono,Zainul Arifin,KEDIRI,,,,,,MARDIYAH
+2022,8,ANANG TRIWAHYUDI,Cabang (1.000),Dsn Gadungan Ds Gadungan Kec Wates Kab Kediri,"  10,000 ",Garansi,OPEN,Heru Cahyono,Zainul Arifin,Yohanes Budi,,,Heru Cahyono,Zainul Arifin,KEDIRI,,,,,,ANANG TRIWAHYUDI
+2022,8,RIZAL AUDY B,Cabang (1.000),Ds. Seda Kec. Mandirancan Kab. Kuningan,"  14,000 ",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,RIZAL AUDY
+2022,8,SRI ANGGRAENI,Cabang (1.000),Ds. Cirangkong Kec. Cijambe Kab. Subang,"  35,000 ",Cost Plus,SEMI,Dodi Mulyadi,Nata Alamsyah,Widodo Callista,,,Dodi Mulyadi,Nata Alamsyah,CIREBON,,,,,,SRI ANGGRAENI
+2022,8,KARYA,Cabang (1.000),Kp Cikadu Rt 018 Rw 005 Kel. Curug Agung Kec. Sagalaherang Kab. Subang,"  7,000 ",Cost Plus,SEMI,Dodi Mulyadi,Nata Alamsyah,Widodo Callista,,,Dodi Mulyadi,Nata Alamsyah,CIREBON,,,,,,KARYA
+2022,8,RUNAWAN,Cabang (1.000),Ds. Kapringan Kec. Krangkeng Kab. Indramayu,"  20,000 ",Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,,,,,,RUNAWAN
+2022,8,H. KHANAN TAUHID,Cabang (1.000),Ds. Bakung Lor Kec. Jamblang Kab. Cirebon,"  36,000 ",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,10,2022,,,,H. KHANAN TAUHID
+2022,8,WAWAN HERMAWAN B,HO (1.500),"Kp. Kaduheulut, Ds. Sukamanah, Kec. Jiput. Kab. Pandeglang","  7,000 ",Cost Plus,SEMI,Abdul Rohim,Endri Suhendri,Widodo Callista,,,Abdul Rohim,Endri Suhendri,HO,,,,,,WAWAN HERMAWAN
+2022,8,ABDULLAH HADI A,Cabang (1.000),Ds. Gadudero Kec. Sukolilo Kab. Pati,"  30,000 ",Cost Plus,CLOSED,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,,,,,,ABDULLAH HADI
+2022,8,ABDULLAH HADI B,Cabang (1.000),Ds. Jongso Kec. Sukolilo Kab. Pati,"  30,000 ",Cost Plus,CLOSED,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,,,,,,ABDULLAH HADI
+2022,8,NURUL JANAH,Cabang (1.000),Ds. Brabo Kec. Tanggungharjo Kab. Grobogan,"  18,000 ",Garansi,SEMI,Rifanto,Suhindro Awitno,Widodo Callista,,,Rifanto,Suhindro Awitno,PATI,,,,,,NURUL JANAH
+2022,9,KASTARI,Cabang (1.000),"Bongkok, Kramat Kab Tegal","  40,000 ",Garansi,CLOSED,Muhamad Rusdi,Agus Kisworo,Widodo Callista,,,Muhamad Rusdi,Agus Kisworo,TEGAL,,,,,,KASTARI
+2022,9,AHMAD SAEFUDIN B,Cabang (1.000),"Padaharja, Suradadi Kab Tegal","  25,000 ",Garansi,SEMI,Winarno,Agus Kisworo,Widodo Callista,,,Winarno,Agus Kisworo,TEGAL,,,,,,AHMAD SAEFUDIN
+2022,9,FADHIL,Cabang (1.000),"Ds Sumberwudi, Karanggeneng, Lamongan","  26,000 ",Garansi,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,,,,,,FADHIL
+2022,9,SUSWANTO,Cabang (1.000),"Ds Donan, Purwosari, Bojonegoro","  12,000 ",Garansi,CLOSED,Fajar Yoga Wicaksono,Bayu Sutomo,Yohanes Budi,,,Fajar Yoga Wicaksono,Bayu Sutomo,TUBAN,,,,,,SUSWANTO
+2022,9,YOKANAN,Cabang (1.000),"Ds Ngloram, Kec. Cepu, Blora","  22,000 ",Garansi,CLOSED,Suci Dwi Arianto,Bayu Sutomo,Yohanes Budi,,,Suci Dwi Arianto,Bayu Sutomo,TUBAN,,,,,,YOKANAN
+2022,9,GEDE ARJUN A,Cabang (1.000),"Ds Brengkok, Kec. Brondong, Lamongan","  22,000 ",Garansi,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,,,,,,GEDE ARJUN
+2022,9,HARTATIK (Bojonegoro),Cabang (1.000),"Desa Katur, Kec. Gayam, Bojonegoro","  6,000 ",Garansi,CLOSED,Fajar Yoga Wicaksono,Bayu Sutomo,Yohanes Budi,,,Fajar Yoga Wicaksono,Bayu Sutomo,TUBAN,,,,,,HARTATIK
+2022,9,BAMBANG HADI UTOMO A,Cabang (1.000),Dsn Bantengan Ds Tanjung Gunung Kec. Peterongan Kab Jombang,"  12,000 ",Garansi,OPEN,Pebrian Nan Jaya Putra,Zainul Arifin,Yohanes Budi,,,Pebrian Nan Jaya Putra,Zainul Arifin,KEDIRI,,,,,,BAMBANG HADI UTOMO
+2022,9,OMAN FAOJI B,HO (1.500),"Kp. Cikoneng, Rt 01/Rw 04, Desa Sipayung, Kec. Sukajaya, Kab. Bogor","  18,000 ",Cost Plus,SEMI,Suma,Muhammad Khaerudin,Widodo Callista,,,Suma,Muhammad Khaerudin,HO,,,,,,OMAN FAOJI
+2022,9,ETI SUHAYATI,HO (1.500),"Kp. Cisaat, Kec. Cicurug","  20,000 ",Cost Plus,SEMI,Suma,Muhammad Khaerudin,Widodo Callista,,,Suma,Muhammad Khaerudin,HO,,,,,,ETI SUHAYATI
+2022,9,NANA SURYANA (CIREBON),Cabang (1.000),Ds. Tugumulya Kec. Darma Kab. Kuningan,"  7,000 ",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,NANA SURYANA
+2022,9,PEPEN,Cabang (1.000),Ds. Palasari Kec. Ciater Kab. Subang,"  10,000 ",Cost Plus,SEMI,Dodi Mulyadi,Nata Alamsyah,Widodo Callista,,,Dodi Mulyadi,Nata Alamsyah,CIREBON,,,,,,PEPEN
+2022,9,DEDI DARSONO H,Cabang (1.000),Ds. Cikondang Kec. Cingambul Kab. Majalengka,"  12,000 ",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,DEDI DARSONO H
+2022,9,SAPTARI WAHYUDIN A,Cabang (1.000),Ds. Sidamulya Kec. Cipunagara Kab. Subang,"  30,000 ",Cost Plus,SEMI,Dodi Mulyadi,Nata Alamsyah,Widodo Callista,,,Dodi Mulyadi,Nata Alamsyah,CIREBON,,,,,,SAPTARI WAHYUDIN
+2022,9,SAPTARI WAHYUDIN B,Cabang (1.000),Ds. Sidamulya Kec. Cipunagara Kab. Subang,"  30,000 ",Cost Plus,SEMI,Dodi Mulyadi,Nata Alamsyah,Widodo Callista,,,Dodi Mulyadi,Nata Alamsyah,CIREBON,,,,,,SAPTARI WAHYUDIN
+2022,9,SAPTARI WAHYUDIN C,Cabang (1.000),Ds. Sidamulya Kec. Cipunagara Kab. Subang,"  30,000 ",Cost Plus,SEMI,Dodi Mulyadi,Nata Alamsyah,Widodo Callista,,,Dodi Mulyadi,Nata Alamsyah,CIREBON,,,,,,SAPTARI WAHYUDIN
+2022,9,H. SUDARTA,Cabang (1.000),Ds. Sukaraja Kec. Ciawi Gebang Kab. Kuningan,"  8,000 ",Cost Plus,SEMI,Jamal Abdul Naseh,Nata Alamsyah,Widodo Callista,,,Jamal Abdul Naseh,Nata Alamsyah,CIREBON,,,,,,H. SUDARTA
+2022,9,IIM RISBAYANTI,Cabang (1.000),Ds. Pasirayu Kec. Sindang Kab. Majalengka,"  8,000 ",Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,,,,,,IIM RISBAYANTI
+2022,9,GITO ARYAMAWARDI,Cabang (1.000),Ds. Sukasari Kec. Mandirancan Kab. Kuningan,"  11,000 ",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,GITO ARYAMAWARDI
+2022,9,MUHAMMAD GHOZALI B,Cabang (1.000),Ds. Tambakan Kec. Gubug Kab. Grobogan,"  14,000 ",Cost Plus,SEMI,Rifanto,Suhindro Awitno,Widodo Callista,,,Rifanto,Suhindro Awitno,PATI,,,,,,MUHAMMAD GHOZALI
+2022,9,MUHAMMAD GHOZALI C,Cabang (1.000),Ds. Tambakan Kec. Gubug Kab. Grobogan,"  13,000 ",Cost Plus,SEMI,Rifanto,Suhindro Awitno,Widodo Callista,,,Rifanto,Suhindro Awitno,PATI,,,,,,MUHAMMAD GHOZALI
+2022,9,ABDULLAH HADI C,Cabang (1.000),Ds. Gadudero Kec. Sukolilo Kab. Pati,"  30,000 ",Cost Plus,CLOSED,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,,,,,,ABDULLAH HADI
+2022,9,ABDULLAH HADI D,Cabang (1.000),Ds. Wotan Kec. Sukolilo Kab. Pati,"  30,000 ",Cost Plus,CLOSED,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,,,,,,ABDULLAH HADI
+2022,9,ABDULLAH HADI E,Cabang (1.000),Ds. Jongso Kec. Sukolilo Kab. Pati,"  30,000 ",Cost Plus,CLOSED,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,,,,,,ABDULLAH HADI
+2022,9,GEDE ARJUN B,Cabang (1.000),"Ds Brengkok, Kec. Brondong, Lamongan","  36,000 ",Garansi,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,,,,,,GEDE ARJUN
+2022,9,YUDHA OKTAVIANTO A,Cabang (1.000),"Ds Kanten, Trucuk, Lamongan","  40,000 ",Cost Plus,CLOSED,Fajar Yoga Wicaksono,Bayu Sutomo,Yohanes Budi,,,Fajar Yoga Wicaksono,Bayu Sutomo,TUBAN,,,,,,YUDHA OKTAVIANTO
+2022,9,YUDHA OKTAVIANTO B,Cabang (1.000),"Ds Kanten, Trucuk, Lamongan","  40,000 ",Cost Plus,CLOSED,Fajar Yoga Wicaksono,Bayu Sutomo,Yohanes Budi,,,Fajar Yoga Wicaksono,Bayu Sutomo,TUBAN,,,,,,YUDHA OKTAVIANTO
+2022,9,HENDRI SUSANTO ,Cabang (1.000),"Sambirembyung, Gemantar, Mondokan, Sragen.","  20,000 ",Garansi,SEMI,Chandra Agustama,Soleh,Widodo Callista,,,Chandra Agustama,Soleh,SOLO,,,,,,HENDRI SUSANTO 
+2022,9,NURSHIRWAN HARUN AL RASYID B,HO (1.500),"Kp. Cibanon, Ds. Sukaraja.Kab. Bogor, Jawabarat","  6,500 ",Garansi,OPEN,Dedy Prayitno,Muhammad Khaerudin,Widodo Callista,,,Dedy Prayitno,Muhammad Khaerudin,HO,,,,,,NURSHIRWAN HARUN AL RASYID
+2022,9,SAEFULOH,Cabang (1.000),"Clekatakan, Pulosari Kab Pemalang","  10,000 ",Garansi,SEMI,Winarno,Agus Kisworo,Widodo Callista,,,Winarno,Agus Kisworo,TEGAL,,,,,,SAEFULOH
+2022,9,BAHRUL ULUM,Cabang (1.000),"Serang, Kab Pemalang","  20,000 ",Garansi,SEMI,Muhamad Rusdi,Agus Kisworo,Widodo Callista,,,Muhamad Rusdi,Agus Kisworo,TEGAL,,,,,,BAHRUL ULUM
+2022,9,RAHMATULLAH GALIH C,HO (1.500),"Kp. Galih, Ds. Galih, Kec. Kibin, Kab. Serang","  22,000 ",Garansi,SEMI,Hendra Firdaus,Endri Suhendri,Widodo Callista,,,Hendra Firdaus,Endri Suhendri,HO,,,,,,RAHMATULLAH GALIH
+2022,9,KASIATUN B,Cabang (1.000),Pojok Rt 002 Rw 001 Ds Selosari Kec Kandat Kab Kediri,"  5,000 ",Garansi,OPEN,Heru Cahyono,Zainul Arifin,Yohanes Budi,,,Heru Cahyono,Zainul Arifin,KEDIRI,,,,,,KASIATUN
+2022,9,BAMBANG HADI UTOMO B,Cabang (1.000),Dsn Bantengan Ds Tanjung Gunung Kec. Peterongan Kab Jombang,"  18,000 ",Garansi,OPEN,Heru Cahyono,Zainul Arifin,Yohanes Budi,,,Heru Cahyono,Zainul Arifin,KEDIRI,,,,,,BAMBANG HADI UTOMO
+2022,9,M NIKO HARDIANSYAH,Cabang (1.000),Dsn Puser Rt 07 Rw 01 Ds Sumberdadap Kec. Puncanglaban Kab. Tulungagung,"  4,500 ",Garansi,SEMI,Imam Rofi'i,Doni Aris Sujito,Yohanes Budi,,,Imam Rofi'i,Doni Aris Sujito,TULUNGAGUNG,,,,,,M NIKO HARDIANSYAH
+2022,9,GEMILANG SURYANTARA,Cabang (1.000),Rt 03 Rw 05 Ds Siraman Kec. Kesamben Kab. Blitar,"  10,000 ",Garansi,CLOSED,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,Mohammad Fa'izin,Doni Aris Sujito,TULUNGAGUNG,,,,,,GEMILANG SURYANTARA
+2022,9,SUMITO,Cabang (1.000),"Ds Karangdayu, Kec. Baureno, Bojonegoro","  18,000 ",Garansi,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,,,,,,SUMITO
+2022,9,ICA PASKO MARYANA,Cabang (1.000),Ds. Kagok Kec. Banjaran Kab. Majalengka,"  12,000 ",Cost Plus,SEMI,Yusep Suryana,Nata Alamsyah,Widodo Callista,,,Yusep Suryana,Nata Alamsyah,CIREBON,,,,,,ICA PASKO MARYANA
+2022,9,SUKANA,Cabang (1.000),Ds. Luwungkencana Kec. Susukan Kab. Cirebon,"  8,000 ",Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,,,,,,SUKANA
+2022,9,PRANOTO PUJI HIDAYAT,Cabang (1.000),"Cengkawakrejo Rt: 05/01 Banyuurip, Purworejo","  6,000 ",Garansi,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,Dwi Santoso,Soleh,SOLO,,,,,,PRANOTO PUJI HIDAYAT
+2022,9,ABDULLAH HADI F,Cabang (1.000),Ds. Gadudero Kec. Sukolilo Kab. Pati,"  26,000 ",Cost Plus,CLOSED,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,,,,,,ABDULLAH HADI
+2022,9,ABDULLAH HADI G,Cabang (1.000),Ds. Gadudero Kec. Sukolilo Kab. Pati,"  26,000 ",Cost Plus,CLOSED,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,,,,,,ABDULLAH HADI
+2022,9,TULUS WIYANTO,HO (1.500),"Kp. Raweuy, Ds. Sukasirna, Kec. Jonggol.Bogor","  11,000 ",Cost Plus,SEMI,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Muhammad Hasyim,Nanang Prihanto,HO,,,,,,TULUS WIYANTO
+2022,9,HENDRA,HO (1.500),"Kp. Raweuy, Ds. Sukasirna, Kec. Jonggol.Bogor","  11,000 ",Cost Plus,SEMI,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Muhammad Hasyim,Nanang Prihanto,HO,,,,,,HENDRA
+2022,9,RIO DWI KUNCORO,HO (1.500),"Kp.  Karangreja Kec. Pebayuran, Kab. Bekasi - Jawabarat","  40,000 ",Cost Plus,SEMI,Dedy Prayitno,Muhammad Khaerudin,Widodo Callista,,,Dedy Prayitno,Muhammad Khaerudin,HO,,,,,,RIO DWI KUNCORO
+2022,9,TASLIKHIN,Cabang (1.000),"Pacul, Talang Kab Tegal","  24,000 ",Garansi,CLOSED,Winarno,Agus Kisworo,Widodo Callista,,,Winarno,Agus Kisworo,TEGAL,,,,,,TASLIKHIN
+2022,9,FENTO,Cabang (1.000),"Sidomulyo, Pagerbarang , Kab Tegal","  30,000 ",Garansi,CLOSED,Muhamad Rusdi,Agus Kisworo,Widodo Callista,,,Muhamad Rusdi,Agus Kisworo,TEGAL,,,,,,FENTO
+2022,9,YUDHA OKTAVIANTO C,Cabang (1.000),"Ds Kanten, Trucuk, Bojonegoro","  40,000 ",Cost Plus,CLOSED,Fajar Yoga Wicaksono,Bayu Sutomo,Yohanes Budi,,,Fajar Yoga Wicaksono,Bayu Sutomo,TUBAN,,,,,,YUDHA OKTAVIANTO
+2022,9,JOKO HADI,Cabang (1.000),"Ds Majenang, Kec. Kedungpring, Lamongan","  32,000 ",Garansi,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,,,,,,JOKO HADI
+2022,9,MEILIA AMBARWATI,Cabang (1.000),"Ds Banjaran, Baureno, Bojonegoro","  16,000 ",Garansi,CLOSED,Fajar Yoga Wicaksono,Bayu Sutomo,Yohanes Budi,,,Fajar Yoga Wicaksono,Bayu Sutomo,TUBAN,,,,,,MEILIA AMBARWATI
+2022,9,PANJI PAMUNGKAS,Cabang (1.000),Kalianyar Rt 1 Rw 1 Maesan Mojo Kabupaten Kediri,"  25,000 ",Garansi,CLOSED,Pebrian Nan Jaya Putra,Zainul Arifin,Yohanes Budi,,,Pebrian Nan Jaya Putra,Zainul Arifin,KEDIRI,,,,,,PANJI PAMUNGKAS
+2022,9,BAMBANG HADI UTOMO C,Cabang (1.000),Dsn Bantengan Ds Tanjung Gunung Kec. Peterongan Kab Jombang,"  21,000 ",Garansi,CLOSED,Heru Cahyono,Zainul Arifin,Yohanes Budi,,,Heru Cahyono,Zainul Arifin,KEDIRI,,,,,,BAMBANG HADI UTOMO
+2022,9,RISTIANA SARI,Cabang (1.000),Dsn Ngampel Ds Pagersari Kec. Kalidawir Kab. Tulungagung,"  7,000 ",Garansi,CLOSED,Imam Rofi'i,Doni Aris Sujito,Yohanes Budi,,,Imam Rofi'i,Doni Aris Sujito,TULUNGAGUNG,,,,,,GIGIH SETIONO
+2022,9,SOBIRIN A,Cabang (1.000),Dsn Samir Rt 001 Rw 003 Ds Samir Kec. Ngunut Kab. Tulungagung,"  5,000 ",Garansi,CLOSED,Imam Rofi'i,Doni Aris Sujito,Yohanes Budi,,,Imam Rofi'i,Doni Aris Sujito,TULUNGAGUNG,,,,,,SOBIRIN
+2022,9,WIBI WINARTO,Cabang (1.000),Dsn Samir Rt 001 Rw 003 Ds Samir Kec. Ngunut Kab. Tulungagung,"  6,000 ",Garansi,CLOSED,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,Mohammad Fa'izin,Doni Aris Sujito,TULUNGAGUNG,,,,,,WIBI WINARTO
+2022,9,IMAM NGADIANTO,Cabang (1.000),Krajan Sepanjang Rt 015 / Rw 002 Kel. Sepanjang Kec. Gondanglegi Kab. Malang,"  11,000 ",Garansi,SEMI,Rizki Novaldhi Wicaksana,Agus Karosa,Yohanes Budi,,,Rizki Novaldhi Wicaksana,Agus Karosa,MALANG,,,,,,IMAM NGADIANTO
+2022,9,PURWITO,Cabang (1.000),Dsn. Kedawung Rt 024/ Rw 003 Kel. Majang Tengah Kec. Dampit Kab. Malang,"  10,000 ",Garansi,SEMI,Mira Hadi Asto,Agus Karosa,Yohanes Budi,,,Mira Hadi Asto,Agus Karosa,MALANG,,,,,,PURWITO
+2022,9,NURAHMAN SYAMHADIYANTO,Cabang (1.000),"Dsn. Pondok Rampal Rt 01/ Rw 01 Ds. Pondok Joyo Kec. Semboro, Kab. Jember","  9,000 ",Garansi,CLOSED,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,Budi Setiawan,Fatekhul Asyhar,PROBOLINGGO,,,,,,NURAHMAN SYAMHADIYANTO
+2022,9,SUPRIYANTO,Cabang (1.000),"Dsn. Krajan, Ds. Darungan Rt 009/ Rw 003, Kec. Tanggul, Kab. Jember","  12,000 ",Garansi,SEMI,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,Budi Setiawan,Fatekhul Asyhar,PROBOLINGGO,,,,,,SUPRIYANTO
+2022,9,AHMAD FAUZI ( Gombong ),Cabang (1.000),"Dsn Karangsambung 014/005 Depok, Kalibawang, Wonosobo","  15,000 ",Garansi,CLOSED,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,Yohanes Budi,,,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,GOMBONG,,,,,,AHMAD FAUZI
+2022,9,SULIYONO,Cabang (1.000),Ngadiwongso Ngadisono Kec.Kaliwiro Kab.Wonosobo,"  11,000 ",Garansi,CLOSED,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,Yohanes Budi,,,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,GOMBONG,,,,,,SULIYONO
+2022,9,SUGITO,Cabang (1.000),Sabrang 001/001 Winongsari Kaliwiro Wonosobo,"  7,000 ",Garansi,CLOSED,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,Yohanes Budi,,,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,GOMBONG,,,,,,SUGITO
+2022,9,SURATNO,Cabang (1.000),Dusun Satu 001/001 Pekutan Bayan Purworejo,"  4,500 ",Garansi,CLOSED,Maulana Hidayat,Nailul Fajar Setiawan,Yohanes Budi,,,Maulana Hidayat,Nailul Fajar Setiawan,GOMBONG,,,,,,SURATNO
+2022,9,ABDULLAH HADI H,Cabang (1.000),Ds. Gadudero Kec. Sukolilo Kab. Pati,"  30,000 ",Cost Plus,CLOSED,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,,,,,,ABDULLAH HADI H
+2022,9,ISNANTO,Cabang (1.000),Ds. Pundenarum Kec. Karangawen Kab. Demak,"  28,000 ",Garansi,SEMI,Rifanto,Suhindro Awitno,Widodo Callista,,,Rifanto,Suhindro Awitno,PATI,,,,,,ISNANTO
+2022,9,TRI SANTO,Cabang (1.000),Ds. Sukorejo Kec. Tegowanu Kab. Grobogan,"  18,000 ",Garansi,SEMI,Rifanto,Suhindro Awitno,Widodo Callista,,,Rifanto,Suhindro Awitno,PATI,,,,,,TRI SANTO
+2022,9,HENDI,Cabang (1.000),Ds. Cibeusi Kec. Ciater Kab. Subang,"  7,000 ",Cost Plus,SEMI,Dodi Mulyadi,Nata Alamsyah,Widodo Callista,,,Dodi Mulyadi,Nata Alamsyah,CIREBON,,,,,,HENDI
+2022,9,WINARNO USMAN A,Cabang (1.000),"Jawalan, Wuwuharjo, Kajoran, Magelang","  16,000 ",Garansi,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,Dwi Santoso,Soleh,SOLO,,,,,,WINARNO USMAN
+2022,9,MUHAMMAD RISAL,HO (1.500),Kp. Awilega Ds. Sukamulya Kec Sukamakmur,"  30,000 ",Cost Plus,SEMI,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Muhammad Hasyim,Nanang Prihanto,HO,,,,,,MUHAMMAD RISAL
+2022,9,AAN ANDRIYANI,HO (1.500),Kp. Wirajaya Kec Pamijahan,"  14,000 ",Garansi,SEMI,Suma,Muhammad Khaerudin,Widodo Callista,,,Suma,Muhammad Khaerudin,HO,,,,,,AAN ANDRIYANI
+2022,9,MAHPUDIN,HO (1.500),Kp. Cibatu Ds. Nanggung,"  22,000 ",Cost Plus,SEMI,Muhammad Bimo Seno,Warsito,Widodo Callista,,,Muhammad Bimo Seno,Warsito,HO,,,,,,MAHPUDIN
+2022,9,SAYUTI,HO (1.500),Kp. Cahaya Mekar Ds. Pasindanagan,12000,Cost Plus,SEMI,Muhammad Bimo Seno,Warsito,Widodo Callista,,,Muhammad Bimo Seno,Warsito,HO,,,,,,SAYUTI
+2022,9,WAHYUDI A,Cabang (1.000),Dsn Pojok Rt 001 Rw 002 Selosari Kandat Kab Kediri,6000,Garansi,OPEN,Heru Cahyono,Zainul Arifin,Yohanes Budi,,,Heru Cahyono,Zainul Arifin,KEDIRI,,,,,,WAHYUDI
+2022,9,FATCHUR RAHMAN,Cabang (1.000),Dsn. Gandul Kel. Dalisodo Kec. Wagir Kab. Malang,7000,Garansi,SEMI,Rizki Novaldhi Wicaksana,Agus Karosa,Yohanes Budi,,,Rizki Novaldhi Wicaksana,Agus Karosa,MALANG,,,,,,FATCHUR RAHMAN
+2022,9,FERDIANSYAH DENI A,Cabang (1.000),Dsn. Princi Rt 019/ Rw 003 Kel. Gadingkulon Kec. Dau Kab. Malang,17000,Garansi,SEMI,Mira Hadi Asto,Agus Karosa,Yohanes Budi,,,Mira Hadi Asto,Agus Karosa,MALANG,,,,,,FERDIANSYAH DENI
+2022,9,DENI SETIAWAN,Cabang (1.000),"Dsn. Banyulegi, Rt 03/Rw 10, Ds. Gunungsari, Kec. Beji, Kab. Pasuruan",15000,Garansi,CLOSED,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,Imam Khoirul Adha,Fatekhul Asyhar,PROBOLINGGO,,,,,,DENI SETIAWAN
+2022,9,DIDIK JULIANTO,Cabang (1.000),"Dsn. Ngemplak, Rt 01/Rw 04, Ds. Kersikan, Kec. Gondangwetan, Pasuruan",7000,Garansi,OPEN,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,Imam Khoirul Adha,Fatekhul Asyhar,PROBOLINGGO,,,,,,DIDIK JULIANTO
+2022,9,ANDIK SULIONO,Cabang (1.000),"Dsn. Damar Rt 08/ Rw 01, Ds. Gajahrejo, Kec. Purwosari, Pasuruan",7500,Garansi,SEMI,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,Imam Khoirul Adha,Fatekhul Asyhar,PROBOLINGGO,,,,,,ANDIK SULIONO
+2022,9,ROKHMAT ZAKARIA A,Cabang (1.000),"Dsn. Sentono, Ds. Lumbang, Kec. Tongas, Kab. Probolinggo",5000,Garansi,OPEN,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,Budi Setiawan,Fatekhul Asyhar,PROBOLINGGO,,,,,,ROKHMAT ZAKARIA
+2022,9,MUHAMMAD DARYL AVISENA SULIAN,Cabang (1.000),"Dsn. Banyulegi, Rt 003/Rw 010, Ds. Gunungsari, Kec. Beji, Kab. Pasuruan",6000,Garansi,OPEN,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,Imam Khoirul Adha,Fatekhul Asyhar,PROBOLINGGO,,,,,,MUHAMMAD DARYL AVISENA SULIAN
+2022,9,SANTO,Cabang (1.000),Kalilendi 002/004 Sendangdalem Padureso Kebumen,14000,Garansi,CLOSED,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,Yohanes Budi,,,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,GOMBONG,,,,,,SANTO
+2022,9,RAHMATULLAH KAMSIN A,HO (1.500),"Kp. Bojong, Rt 18/01. Desa Bakung, Kec. Cikande Kab Serang",8500,Garansi,SEMI,Hendra Firdaus,Endri Suhendri,Widodo Callista,,,Hendra Firdaus,Endri Suhendri,HO,,,,,,RAHMATULLAH KAMSIN
+2022,9,KOMARUDIN B,HO (1.500),"Kp. Pasirsalam Rt 002/005 Ds.Gunung Bunder 2
+Kec. Pamijahan",8000,Garansi,OPEN,Suma,Muhammad Khaerudin,Widodo Callista,,,Suma,Muhammad Khaerudin,HO,,,,,,KOMARUDIN
+2022,9,IKHWANTO,Cabang (1.000),"Ds Besuki Kec. Besuki , Kab. Tulungagung",5000,Garansi,OPEN,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,Mohammad Fa'izin,Doni Aris Sujito,TULUNGAGUNG,,,,,,IKHWANTO
+2022,9,SUKAMTO A,Cabang (1.000),"Ds. Pakisrejo Kec. Tanggunggunung, Kab. Tulungagung",6000,Garansi,CLOSED,Imam Rofi'i,Doni Aris Sujito,Yohanes Budi,,,Imam Rofi'i,Doni Aris Sujito,TULUNGAGUNG,,,,,,SUKAMTO
+2022,9,RUSYAD FIRDAUSI B,Cabang (1.000),"Desa Karangdayu, Baureno, Bojonegoro",15000,Cost Plus,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,,,,,,RUSYAD FIRDAUSI
+2022,9,MUHAMAD YUNUS,HO (1.500),"Kp. Cilongok, Desa. Daon, Kec. Rajeg, Kab. Tangerang",20000,Cost Plus,SEMI,Muhammad Bimo Seno,Warsito,Widodo Callista,,,Muhammad Bimo Seno,Warsito,HO,,,,,,MUHAMAD YUNUS
+2022,9,KEMUNING,Cabang (1.000),Ds. Cibulan Kec. Cidahu Kab. Kuningan,15000,Cost Plus,SEMI,Jamal Abdul Naseh,Nata Alamsyah,Widodo Callista,,,Jamal Abdul Naseh,Nata Alamsyah,CIREBON,,,,,,KEMUNING
+2022,9,IRVAN SAPUTRA,Cabang (1.000),Ds. Balimbing Kec. Pagaden Barat Kab. Subang,15000,Cost Plus,SEMI,Dodi Mulyadi,Nata Alamsyah,Widodo Callista,,,Dodi Mulyadi,Nata Alamsyah,CIREBON,,,,,,IRVAN SAPUTRA
+2022,9,TABAH MULYANA PUTRA,Cabang (1.000),Ds. Cikahuripan Kec. Lembang Kab. Bandung Barat,18000,Cost Plus,SEMI,Dodi Mulyadi,Nata Alamsyah,Widodo Callista,,,Dodi Mulyadi,Nata Alamsyah,CIREBON,,,,,,TABAH MULYANA PUTRA
+2022,9,H. AMINUDIN A,Cabang (1.000),Ds. Bakung Lor Kec. Jamblang Kab. Cirebon,32000,Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,10,2022,,,,H. AMINUDIN
+2022,9,H. AMINUDIN B,Cabang (1.000),Ds. Bakung Lor Kec. Jamblang Kab. Cirebon,28000,Cost Plus,SEMI,Kusnanto,Nata Alamsyah,Widodo Callista,,,Kusnanto,Nata Alamsyah,CIREBON,10,2022,,,,H. AMINUDIN
+2022,9,MUHTASOR,Cabang (1.000),Ds. Wringinjajar Kec. Mranggen Kab. Demak,10000,Garansi,SEMI,Rifanto,Suhindro Awitno,Widodo Callista,,,Rifanto,Suhindro Awitno,PATI,,,,,,MUHTASOR
+2022,9,ABDULLAH HADI I,Cabang (1.000),Ds. Gadudero Kec. Sukolilo Kab. Pati,30000,Cost Plus,CLOSED,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,Budi Sutarjo,Suhindro Awitno,PATI,,,,,,ABDULLAH HADI I
+2022,9,SARWOKO A,Cabang (1.000),"Mlilir Rt 02/13, Gentungan, Mojogedang, Karanganyar",6000,Garansi,SEMI,Chandra Agustama,Soleh,Widodo Callista,,,Chandra Agustama,Soleh,SOLO,,,,,,SARWOKO
+2022,9,SARWOKO B,Cabang (1.000),"Mlilir Rt 02/13, Gentungan, Mojogedang, Karanganyar",7000,Garansi,SEMI,Chandra Agustama,Soleh,Widodo Callista,,,Chandra Agustama,Soleh,SOLO,,,,,,SARWOKO
+2022,9,BAMBANG JUNI HARMONO,Cabang (1.000),"Desa Jetak, Montong, Tuban",40000,Garansi,CLOSED,Suci Dwi Arianto,Bayu Sutomo,Yohanes Budi,,,Fajar Yoga Wicaksono,Bayu Sutomo,TUBAN,,,,,,BAMBANG JUNI HARMONO
+2022,9,JUMALI,Cabang (1.000),"Ds Padang, Trucuk, Bojonegoro",5000,Garansi,CLOSED,Fajar Yoga Wicaksono,Bayu Sutomo,Yohanes Budi,,,Fajar Yoga Wicaksono,Bayu Sutomo,TUBAN,,,,,,JUMALI
+2022,9,HARIYANTI,Cabang (1.000),Dsn Biluk Rt 1 Rw 2 Ngaglik Srengat Blitar,6000,Garansi,OPEN,Heru Cahyono,Zainul Arifin,Yohanes Budi,,,Heru Cahyono,Zainul Arifin,KEDIRI,,,,,,HARIYANTI
+2022,9,SODIQ,Cabang (1.000),Dsn Darungan Pagu Wates Kab Kediri,4500,Garansi,OPEN,Heru Cahyono,Zainul Arifin,Yohanes Budi,,,Heru Cahyono,Zainul Arifin,KEDIRI,,,,,,SODIQ
+2022,9,WAHYUDI B,Cabang (1.000),Jl Wilis Cangkringan Ds Sumberjo Kandat Kediri,4000,Garansi,OPEN,Heru Cahyono,Zainul Arifin,Yohanes Budi,,,Heru Cahyono,Zainul Arifin,KEDIRI,,,,,,WAHYUDI
+2022,9,AGUNG PRASTOWO,Cabang (1.000),Dsn Klepek Rt 6 Rw 2 Ds Klepek Kunjang Kab Kediri,6000,Garansi,OPEN,Pebrian Nan Jaya Putra,Zainul Arifin,Yohanes Budi,,,Pebrian Nan Jaya Putra,Zainul Arifin,KEDIRI,,,,,,AGUNG PRASTOWO
+2022,9,KHOLIS FAHMI,Cabang (1.000),"Ds Sumberwudi, Karanggeneng, Lamongan",8000,Garansi,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,,,,,,KHOLIS FAHMI
+2022,9,JUMADI,Cabang (1.000),Sukoreno 014/004 Sukoreno Kaliwiro Wonosobo,6000,Garansi,OPEN,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,Yohanes Budi,,,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,GOMBONG,,,,,,JUMADI
+2022,9,BUDI TRIYANTO,Cabang (1.000),Prembulan 001/005 Samping Kemiri Purworejo,10000,Garansi,CLOSED,Maulana Hidayat,Nailul Fajar Setiawan,Yohanes Budi,,,Maulana Hidayat,Nailul Fajar Setiawan,GOMBONG,,,,,,BUDI TRIYANTO
+2022,9,RIMA ELSA FITRIANA,Cabang (1.000),Dusun Iv Purwodadi Kembaran Banyumas,17000,Garansi,CLOSED,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,Yohanes Budi,,,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,GOMBONG,,,,,,RIMA ELSA FITRIANA
+2022,9,TEGAR HADI SETHYO,Cabang (1.000),Jln. Sampurna Dsn Lima Pucang Agung Bayan Purworejo,13000,Garansi,CLOSED,Maulana Hidayat,Nailul Fajar Setiawan,Yohanes Budi,,,Maulana Hidayat,Nailul Fajar Setiawan,GOMBONG,,,,,,TEGAR HADI SETHYO
+2022,9,SOBIRIN B,Cabang (1.000),Ds Samir Kec. Ngunut Kab. Tulungagung,6000,Garansi,OPEN,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,Mohammad Fa'izin,Doni Aris Sujito,TULUNGAGUNG,,,,,,SOBIRIN
+2022,9,ENDRO SUSILO,Cabang (1.000),Ds Jingglong Kec. Sutojayan Kab. Blitar,8000,Garansi,CLOSED,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,Mohammad Fa'izin,Doni Aris Sujito,TULUNGAGUNG,,,,,,ENDRO SUSILO
+2022,9,EDI ABIYAN,Cabang (1.000),Dsn. Karang Ampel Rt 018 / Rw 002 Kel. Karang Widoro Kec. Dau Kab. Malang,10000,Garansi,SEMI,Mira Hadi Asto,Agus Karosa,Yohanes Budi,,,Mira Hadi Asto,Agus Karosa,MALANG,,,,,,EDI ABIYAN
+2022,9,SAIFUL ANAM,Cabang (1.000),"Dsn.Lanasan, Ds. Gelang, Kec. Sumberbaru, Kab. Jember",12000,Garansi,CLOSED,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,Budi Setiawan,Fatekhul Asyhar,PROBOLINGGO,,,,,,SAEFUL ANAM
+2022,9,SADDAM HUSEN ARIF,Cabang (1.000),"Dsn. Suko Duo, Ds. Kramat Sukoharjo, Kec. Tanggul, Kab. Jember",5000,Garansi,CLOSED,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,Budi Setiawan,Fatekhul Asyhar,PROBOLINGGO,,,,,,SADDAM HUSEN ARIF
+2022,9,UMI KULSUM,Cabang (1.000),"Area Sawahan, Ds. Pecarukan, Kec. Prigen, Kab. Pasuruan",20000,Garansi,CLOSED,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,Imam Khoirul Adha,Fatekhul Asyhar,PROBOLINGGO,,,,,,UMI KULSUM
+2022,9,ROKHMAT ZAKARIA B,Cabang (1.000),"Dsn. Krajan Tengah, Ds. Curahdringu, Kec. Tongas, Kab. Probolinggo",8000,Garansi,OPEN,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,Budi Setiawan,Fatekhul Asyhar,PROBOLINGGO,,,,,,ROKHMAT ZAKARIA
+2022,10,RITA PURWANTI SWANDY A,Cabang (1.000),Ds. Cikaum Barat Kec. Cikaum Kab. Subang,15000,Cost Plus,SEMI,Dodi Mulyadi,Nata Alamsyah,Widodo Callista,,,Dodi Mulyadi,Nata Alamsyah,CIREBON,,,,,,RITA PURWANTI SWANDY
+2022,10,RITA PURWANTI SWANDY B,Cabang (1.000),Ds. Cikaum Barat Kec. Cikaum Kab. Subang,24000,Cost Plus,SEMI,Dodi Mulyadi,Nata Alamsyah,Widodo Callista,,,Dodi Mulyadi,Nata Alamsyah,CIREBON,,,,,,RITA PURWANTI SWANDY
+2022,10,ABDUL ROHMAN,HO (1.500),"Kp. Kadu Lumbir, Ds. Ranca Tereup Kec. Labuan Kab. Pandeglang",10000,Garansi,SEMI,Abdul Rohim,Endri Suhendri,Widodo Callista,,,Abdul Rohim,Endri Suhendri,HO,,,,,,ABDUL ROHMAN
+2022,10,UMAY,HO (1.500),"Kp. Cibeurih, Rt. 16/04, Desa. Margaluyu, Kec. Sajira, Kab. Lebak",9000,Cost Plus,SEMI,Muhammad Bimo Seno,Warsito,Widodo Callista,,,Muhammad Bimo Seno,Warsito,HO,,,,,,UMAY
+2022,10,AGUS KURNIA,HO (1.500),Kp.Tarisi Ds.Begoang Kec.Jasingan Bogor,20000,Cost Plus,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,,,,,,AGUS KURNIA
+2022,10,HAERUDIN,HO (1.500),Kp.Sindangwangi Kec. Leuwisadeng,10000,Cost Plus,SEMI,Suma,Muhammad Khaerudin,Widodo Callista,,,Suma,Muhammad Khaerudin,HO,,,,,,HAERUDIN
+2022,10,ASBER SILITONGAN,HO (1.500),Kembang Kuning Ds.Jugala Jaya Kec.Jasingan,22000,Cost Plus,SEMI,Suma,Muhammad Khaerudin,Widodo Callista,,,Suma,Muhammad Khaerudin,HO,,,,,,ASBER SILITONGAN
+2022,10,USAMAH JIHAD FAHRUDIN,Cabang (1.000),"Dsn Kalangan Kulon, Desa Ambartawang, Kec. Mungkid, Kab. Magelang",10000,Garansi,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,Dwi Santoso,Soleh,SOLO,,,,,,USAMAH JIHAD FAHRUDIN
+2022,10,SONI PRIYOGI,Cabang (1.000),"Krgsari , Nyalembeng Pulosari Kab Pemalang",6000,Garansi,SEMI,Winarno,Agus Kisworo,Widodo Callista,,,Winarno,Agus Kisworo,TEGAL,,,,,,SONI PIYOGI
+2022,10,SONI HARSONO,Cabang (1.000),"Krgsari , Nyalembeng Pulosari Kab Pemalang",10000,Garansi,SEMI,Winarno,Agus Kisworo,Widodo Callista,,,Winarno,Agus Kisworo,TEGAL,,,,,,SONI HARSONO
+2022,10,RIDWAN,Cabang (1.000),"Belik, Kab Pemalang",11000,Garansi,SEMI,Winarno,Agus Kisworo,Widodo Callista,,,Winarno,Agus Kisworo,TEGAL,,,,,,RIDWAN
+2022,10,HARI,Cabang (1.000),"Ds Gayam, Kec. Gayam, Bojonegoro",6000,Garansi,CLOSED,Fajar Yoga Wicaksono,Bayu Sutomo,Yohanes Budi,,,Fajar Yoga Wicaksono,Bayu Sutomo,TUBAN,,,,,,HARI
+2022,10,HAMDAN M NAFI A,Cabang (1.000),"Ds Simo, Kec. Soko, Tuban",24000,Garansi,CLOSED,Fajar Yoga Wicaksono,Bayu Sutomo,Yohanes Budi,,,Fajar Yoga Wicaksono,Bayu Sutomo,TUBAN,,,,,,HAMDAN M NAFI
+2022,10,DEDI AL FAIR,Cabang (1.000),"Dsn. Dulugan Rt 12/Rw 04, Ds. Tulupari, Kec. Tiris, Kab. Probolinggo",6000,Garansi,OPEN,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,Budi Setiawan,Fatekhul Asyhar,PROBOLINGGO,,,,,,DEDI AL FAIR
+2022,10,FAWAID SYAMSUL ARIFIN,Cabang (1.000),"Dsn. Jatian, Ds. Tegalwatu, Kec. Tiris, Kab. Probolinggo",6000,Garansi,CLOSED,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,Budi Setiawan,Fatekhul Asyhar,PROBOLINGGO,,,,,,FAWAID SAMSUL ARIFIN
+2022,10,ABDUL KHAMID,Cabang (1.000),"Jl. Tanpa Nama, Dsn. Wedian, Ds. Curahsawo, Kec. Gending, Kab. Probolinggo",3500,Garansi,OPEN,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,Budi Setiawan,Fatekhul Asyhar,PROBOLINGGO,,,,,,ABDUL KHAMID
+2022,10,MOCHTAR KHOMEINI,Cabang (1.000),"Jl. Tanpa Nama, Dsn. Wedian, Ds. Curahsawo, Kec. Gending, Kab. Probolinggo",7500,Garansi,OPEN,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,Budi Setiawan,Fatekhul Asyhar,PROBOLINGGO,,,,,,MOCHTAR KHOMAINI
+2022,10,CONDRO WIRYONO POERWANTO,Cabang (1.000),"Dsn. Toyoarang, Rt 02/ Rw 01, Ds. Sumberejo, Kec. Pandaan, Kab. Pasuruan",13000,Garansi,CLOSED,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,Imam Khoirul Adha,Fatekhul Asyhar,PROBOLINGGO,,,,,,CONDRO WIRYONO POERWANTO
+2022,10,RUDIANTO B,Cabang (1.000),Dsn Pule Utara Rt 4 Rw 6 Kec Kadat Kab Kediri,5000,Garansi,OPEN,Heru Cahyono,Zainul Arifin,Yohanes Budi,,,Heru Cahyono,Zainul Arifin,KEDIRI,,,,,,RUDIANTO
+2022,10,SLAMET PURWANTO,Cabang (1.000),Timbang 016/005 Timbang Kejobong Purbalingga,16000,Garansi,CLOSED,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,Yohanes Budi,,,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,GOMBONG,,,,,,SLAMET PURWANTO
+2022,10,MUSODAH,Cabang (1.000),Karanganyar 026/002 Karanganyar Wadaslintang Wonosobo,14000,Garansi,CLOSED,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,Yohanes Budi,,,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,GOMBONG,,,,,,MUSODAH
+2022,10,MUKHAYAN,Cabang (1.000),Kaligesing 004/006 Seboro Sadang Kebumen,20000,Garansi,CLOSED,Maulana Hidayat,Nailul Fajar Setiawan,Yohanes Budi,,,Maulana Hidayat,Nailul Fajar Setiawan,GOMBONG,,,,,,MUKHAYAN
+2022,10,MUSTOFA,Cabang (1.000),Desa Pekutan 001/001 Pekutan Bayan Purworejo,18000,Garansi,CLOSED,Maulana Hidayat,Nailul Fajar Setiawan,Yohanes Budi,,,Maulana Hidayat,Nailul Fajar Setiawan,GOMBONG,,,,,,MUSTOFA
+2022,10,PARYOTO A,Cabang (1.000),"Plumbon, Plumbon, Sambungmacan, Sragen",32000,Garansi,SEMI,Chandra Agustama,Soleh,Widodo Callista,,,Chandra Agustama,Soleh,SOLO,,,,,,PARYOTO
+2022,10,ANIK HARIATIN,Cabang (1.000),Dsn.Balokan Kel. Kromengan Kec. Kromengan Kab. Malang,6000,Garansi,SEMI,Rizki Novaldhi Wicaksana,Agus Karosa,Yohanes Budi,,,Rizki Novaldhi Wicaksana,Agus Karosa,MALANG,,,,,,ANIK HARIATIN
+2022,10,DIYAN IRAWATI A,Cabang (1.000),Dsn. Bumirejo Kel. Kebobang Kec. Wonosari Kab. Malang,20000,Garansi,SEMI,Mira Hadi Asto,Agus Karosa,Yohanes Budi,,,Mira Hadi Asto,Agus Karosa,MALANG,,,,,,DIYAN IRAWATI
+2022,10,DIYAN IRAWATI B,Cabang (1.000),Dsn. Bumirejo Kel. Kebobang Kec. Wonosari Kab. Malang,30000,Garansi,SEMI,Mira Hadi Asto,Agus Karosa,Yohanes Budi,,,Mira Hadi Asto,Agus Karosa,MALANG,,,,,,DIYAN IRAWATI
+2022,10,JOKO SUSANTO,Cabang (1.000),Ds Padangan Kec. Ngantru Kab. Tulungagung,4500,Garansi,SEMI,Imam Rofi'i,Doni Aris Sujito,Yohanes Budi,,,Imam Rofi'i,Doni Aris Sujito,TULUNGAGUNG,,,,,,JOKO SUSANTO
+2022,10,YUSRIN NAJA,Cabang (1.000),Ds Karangrejo Kec. Kandat Kab. Kediri,5000,Garansi,OPEN,Imam Rofi'i,Doni Aris Sujito,Yohanes Budi,,,Imam Rofi'i,Doni Aris Sujito,TULUNGAGUNG,,,,,,YUSRIN NAJA
+2022,10,ILYAS,Cabang (1.000),"Dk Tengah, Bojong Kab Tegal",7000,Cost Plus,SEMI,Winarno,Agus Kisworo,Widodo Callista,,,Winarno,Agus Kisworo,TEGAL,,,,,,ILYAS
+2022,10,WATI,Cabang (1.000),"Sirangkang, Petarukan Kab Pemalang",10000,Cost Plus,SEMI,Winarno,Agus Kisworo,Widodo Callista,,,Winarno,Agus Kisworo,TEGAL,,,,,,WATI
+2022,10,LEGOWO BUDI ISWANTO,Cabang (1.000),"Sambirembyung, Gemantar, Mondokan, Sragen",22000,Garansi,SEMI,Chandra Agustama,Soleh,Widodo Callista,,,Chandra Agustama,Soleh,SOLO,,,,,,LEGOWO BUDI ISWANTO
+2022,10,BAHERAMSYAH,HO (1.500),Kp.Citapen Ds.Cimulang Kec.Rancabungur,26500,Cost Plus,SEMI,Usman Efendi,Muhammad Khaerudin,Widodo Callista,,,Usman Efendi,Muhammad Khaerudin,HO,,,,,,BAHERAMSYAH
+2022,10,HAMDAN M NAFI B,Cabang (1.000),"Ds Simo, Kec. Soko, Tuban",20000,Cost Plus,CLOSED,Fajar Yoga Wicaksono,Bayu Sutomo,Yohanes Budi,,,Fajar Yoga Wicaksono,Bayu Sutomo,TUBAN,,,,,,HAMDAN M NAFI
+2022,10,HENDRI DIANTO,Cabang (1.000),Ds Winong Kec. Kalidawir Kab. Tulungagung,5000,Garansi,OPEN,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,Mohammad Fa'izin,Doni Aris Sujito,TULUNGAGUNG,,,,,,HENDRI DIANTO
+2022,10,MUKHAMAD MUHAIMIN,Cabang (1.000),Ds Ngaglik Kec. Srengat Kab. Blitar,5000,Garansi,SEMI,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,Mohammad Fa'izin,Doni Aris Sujito,TULUNGAGUNG,,,,,,MUKHAMAD MUHAIMIN
+2022,10,RUMINGGAN,Cabang (1.000),Ds Ngadiluwih Kec. Ngadiluwih Kab. Kediri,11000,Garansi,OPEN,Imam Rofi'i,Doni Aris Sujito,Yohanes Budi,,,Imam Rofi'i,Doni Aris Sujito,TULUNGAGUNG,,,,,,RUMINGGAN
+2022,10,DARMAJI A,Cabang (1.000),"Jl. Airlangga Tamiajeng, Kec. Trawas, Mojokerto",9000,Garansi,OPEN,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,Imam Khoirul Adha,Fatekhul Asyhar,PROBOLINGGO,,,,,,DARMAJI
+2022,10,DARMAJI B,Cabang (1.000),"Kedungudi, Kec. Trawas, Mojokerto",4500,Garansi,SEMI,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,Imam Khoirul Adha,Fatekhul Asyhar,PROBOLINGGO,,,,,,DARMAJI
+2022,10,ABDUL QODIM,Cabang (1.000),"Ds. Pandelekan, Raci, Bangil, Pasuruan",24000,Garansi,CLOSED,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,Imam Khoirul Adha,Fatekhul Asyhar,PROBOLINGGO,,,,,,ABDUL QODIM
+2022,10,GANDRIK GUNAWAN,Cabang (1.000),"Jl. Pahlawan Rt 002/Rw 003, Ds. Krejengan, Kec. Krejengan, Probolinggo",7000,Garansi,OPEN,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,Budi Setiawan,Fatekhul Asyhar,PROBOLINGGO,,,,,,GANDRIK GUNAWAN
+2022,10,YOGAIR FISKA ASHILMI,Cabang (1.000),"Morlorong, Ds Rowo Gempol, Kec. Lekok, Pasuruan",6000,Garansi,SEMI,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,Imam Khoirul Adha,Fatekhul Asyhar,PROBOLINGGO,,,,,,YOGAIR FISKA ASHILMI
+2022,10,PUJI HARIANTO,Cabang (1.000),Dsn. Balokan Kel. Kromengan Kec. Kromengan Kab. Malang,12000,Garansi,SEMI,Rizki Novaldhi Wicaksana,Agus Karosa,Yohanes Budi,,,Rizki Novaldhi Wicaksana,Agus Karosa,MALANG,,,,,,PUJI HARIANTO
+2022,10,FERDIANSYAH DENI B,Cabang (1.000),Dsn. Jenglong Krl. Tegalweru Kec. Dau Kab. Malang,7000,Garansi,SEMI,Mira Hadi Asto,Agus Karosa,Yohanes Budi,,,Mira Hadi Asto,Agus Karosa,MALANG,,,,,,FERDIANSYAH DENI
+2022,10,SULASEMI,Cabang (1.000),Ds. Plandi Kel. Kacangan Kec. Wonosari Kab. Malang,16000,Garansi,SEMI,Rizki Novaldhi Wicaksana,Agus Karosa,Yohanes Budi,,,Rizki Novaldhi Wicaksana,Agus Karosa,MALANG,,,,,,SULASEMI
+2022,10,ENIK SULISTYAWATI,Cabang (1.000),Jrakah Bayan Purworejo,21000,Garansi,CLOSED,Maulana Hidayat,Nailul Fajar Setiawan,Yohanes Budi,,,Maulana Hidayat,Nailul Fajar Setiawan,GOMBONG,,,,,,ENIK SULISTYAWATI
+2022,10,MUGIONO,Cabang (1.000),Selomanik Kauman Kaliwiro Wonosobo,8000,Garansi,CLOSED,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,Yohanes Budi,,,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,GOMBONG,,,,,,MUGIONO
+2022,10,CV BINTANG UNGGAS SELATAN A,Cabang (1.000),Lembupurwo Mirit Kebumen,20000,Garansi,CLOSED,Maulana Hidayat,Nailul Fajar Setiawan,Yohanes Budi,,,Maulana Hidayat,Nailul Fajar Setiawan,GOMBONG,,,,,,CV BINTANG UNGGAS SELATAN
+2022,10,RAHMI RARASATI,Cabang (1.000),Sekarteja Adimulyo Kebumen,21000,Garansi,CLOSED,Maulana Hidayat,Nailul Fajar Setiawan,Yohanes Budi,,,Maulana Hidayat,Nailul Fajar Setiawan,GOMBONG,,,,,,RAHMI RARASATI
+2022,10,GUSMANTO EKO PRASETYO,Cabang (1.000),Dsn Tirip Ds Sumber Urip Berbek Nganjuk,22000,Cost Plus,SEMI,Pebrian Nan Jaya Putra,Zainul Arifin,Yohanes Budi,,,Pebrian Nan Jaya Putra,Zainul Arifin,KEDIRI,,,,,,GUSMANTO EKO PRASETYO
+2022,10,LEGOK A,HO (1.500),"Jl. Raya Kadusirung, Kadu Sirung, Kec. Pagedangan, Kabupaten Tangerang, Banten 15336",60000,Garansi,CLOSED,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,,,,,,
+2022,10,LEGOK B,HO (1.500),"Jl. Raya Kadusirung, Kadu Sirung, Kec. Pagedangan, Kabupaten Tangerang, Banten 15336",50000,Garansi,CLOSED,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,,,,,,
+2022,10,LEGOK C,HO (1.500),"Jl. Raya Kadusirung, Kadu Sirung, Kec. Pagedangan, Kabupaten Tangerang, Banten 15336",60000,Garansi,CLOSED,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,,,,,,
+2022,10,HJ NINA YUHANA,HO (1.500),Kp.Bantar Gebang Ds.Sukatani Kec.Cilamaya,17000,Cost Plus,SEMI,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Muhammad Hasyim,Nanang Prihanto,HO,,,,,,
+2022,10,SUKARTINAH B,Cabang (1.000),"Pasar Bogo Salak Malang, Banjarharjo, Kalibawang, Kulon Progo, Yogyakarta",28000,Garansi,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,Dwi Santoso,Soleh,SOLO,,,,,,
+2022,10,GUSMANTO EKO PRASETYO,Cabang (1.000),Dsn Tirip Ds Sumber Urip Berbek Nganjuk,22000,Cost Plus,SEMI,Pebrian Nan Jaya Putra,Zainul Arifin,Yohanes Budi,,,Pebrian Nan Jaya Putra,Zainul Arifin,KEDIRI,,,,,,
+2022,10,SUWITO,Cabang (1.000),Dsn Rembang Rt 4 Rw 4 Rembang Ngadiluwih Kab Kediri,4000,Garansi,SEMI,Heru Cahyono,Zainul Arifin,Yohanes Budi,,,Heru Cahyono,Zainul Arifin,KEDIRI,,,,,,
+2022,10,JUNADI,Cabang (1.000),Ds Sekaran Rt 1 Rw 4 Kec Loceret Nganjuk,40000,Cost Plus,SEMI,Heru Cahyono,Zainul Arifin,Yohanes Budi,,,Heru Cahyono,Zainul Arifin,KEDIRI,,,,,,
+2022,10,AHMAD NUR SYAIFUDIN,Cabang (1.000),Dsn. Palaan Kec. Ngajum Kab. Malang,7000,Garansi,SEMI,Rizki Novaldhi Wicaksana,Agus Karosa,Yohanes Budi,,,Rizki Novaldhi Wicaksana,Agus Karosa,MALANG,,,,,,
+2022,10,KRISNA ILYAS SAHRI,Cabang (1.000),Dsn. Wonokitri Rt 013 / Rw 003 Kel. Wonoagung Kec. Tirtoyudo Kab. Malang,10000,Garansi,SEMI,Mira Hadi Asto,Agus Karosa,Yohanes Budi,,,Mira Hadi Asto,Agus Karosa,MALANG,,,,,,
+2022,10,PURWITO B,Cabang (1.000),Dsn. Sumbersari Kel. Jambangan Kec. Dampit Kab. Malang,8000,Garansi,SEMI,Mira Hadi Asto,Agus Karosa,Yohanes Budi,,,Mira Hadi Asto,Agus Karosa,MALANG,,,,,,
+2022,10,TRI WAHYUDI,Cabang (1.000),Dsn. Ampaldenton Kec. Karangploso Kab. Malang,13000,Garansi,SEMI,Rizki Novaldhi Wicaksana,Agus Karosa,Yohanes Budi,,,Rizki Novaldhi Wicaksana,Agus Karosa,MALANG,,,,,,
+2022,10,EMIL BUDYSASMITO,Cabang (1.000),"Dsn. Pakunden, Rt 001/ Rw 009, Ds. Pakukerto, Kec. Sukorejo, Pasuruan",8500,Garansi,OPEN,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,Imam Khoirul Adha,Fatekhul Asyhar,PROBOLINGGO,,,,,,
+2022,10,SUGENG IRAWAN A,Cabang (1.000),"Dsn. Jurang Londo, Ds. Gerbo, Kec. Purwodadi, Pasuruan",7500,Garansi,CLOSED,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,Imam Khoirul Adha,Fatekhul Asyhar,PROBOLINGGO,,,,,,
+2022,10,SUGENG IRAWAN B,Cabang (1.000),"Dsn. Jurang Londo, Ds. Gerbo, Kec. Purwodadi, Pasuruan",5500,Garansi,OPEN,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,Imam Khoirul Adha,Fatekhul Asyhar,PROBOLINGGO,,,,,,
+2022,10,HARIYANI,Cabang (1.000),"Jl. Lingkar Desa Dsn. Curah Bamban Rt 02/Rw 21, Ds. Tanggul Wetan, Kec. Tanggul, Kab. Jember",16000,Garansi,CLOSED,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,Budi Setiawan,Fatekhul Asyhar,PROBOLINGGO,,,,,,
+2022,10,MATRAJI,Cabang (1.000),"Dsn. Curah Bamban, Rt 01/ Rw 28, Ds. Tanggul Wetan, Kec. Tanggul, Kab. Jember",4500,Garansi,OPEN,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,Budi Setiawan,Fatekhul Asyhar,PROBOLINGGO,,,,,,
+2022,10,HAPPY KURNIAWAN A,Cabang (1.000),Ds Tambakan Kec. Gandusari Kab. Blitar,10000,Garansi,CLOSED,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,Mohammad Fa'izin,Doni Aris Sujito,TULUNGAGUNG,,,,,,
+2022,10,DRS NURI FATHUROHMAN,Cabang (1.000),Ds Maron Kec. Srengat Kab. Blitar,10000,Garansi,CLOSED,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,Mohammad Fa'izin,Doni Aris Sujito,TULUNGAGUNG,,,,,,
+2022,10,SUGENG PRAYITNO,Cabang (1.000),Ds Soso Kec. Gandusari Kec. Blitar,12000,Garansi,CLOSED,Imam Rofi'i,Doni Aris Sujito,Yohanes Budi,,,Imam Rofi'i,Doni Aris Sujito,TULUNGAGUNG,,,,,,
+2022,10,JLAJAT FELIANA,Cabang (1.000),Adisana 003/006 Adisana Kebasen Banyumas,14000,Garansi,CLOSED,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,Yohanes Budi,,,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,GOMBONG,,,,,,
+2022,10,CV BINTANG UNGGAS SELATAN B,Cabang (1.000),Lembupurwo Mirit Kebumen,20000,Garansi,CLOSED,Maulana Hidayat,Nailul Fajar Setiawan,Yohanes Budi,,,Maulana Hidayat,Nailul Fajar Setiawan,GOMBONG,,,,,,
+2022,10,CV BINTANG UNGGAS SELATAN C,Cabang (1.000),Lembupurwo Mirit Kebumen,20000,Garansi,CLOSED,Maulana Hidayat,Nailul Fajar Setiawan,Yohanes Budi,,,Maulana Hidayat,Nailul Fajar Setiawan,GOMBONG,,,,,,
+2022,10,NOVA SAKTI DWI KURNIAWAN A,Cabang (1.000),Jln. Ketasari Desa Losari Kecamatan Rawalo Banyumas,22000,Garansi,CLOSED,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,Yohanes Budi,,,Maulana Hidayat,Nailul Fajar Setiawan,GOMBONG,,,,,,
+2022,10,AMING,HO (1.500),"Kp. Sukamaju, Desa Cijaku, Kecamatan Cijaku, Kab Lebak.",7000,Garansi,SEMI,Abdul Rohim,Endri Suhendri,Widodo Callista,,,Abdul Rohim,Endri Suhendri,HO,,,,,,
+2022,10,TARUNO,Cabang (1.000),"Wanarata, Bantarbolang Kab Pemalang",8000,Garansi,SEMI,Winarno,Agus Kisworo,Widodo Callista,,,Winarno,Agus Kisworo,TEGAL,,,,,,
+2022,10,AMIN JATMIKO,Cabang (1.000),"Temuireng Rt.02/01, Karanganyar, Sambungmacan, Sragen",30000,Garansi,SEMI,Chandra Agustama,Soleh,Widodo Callista,,,Chandra Agustama,Soleh,SOLO,,,,,,
+2022,10,FIRMAN WAHYUDI,Cabang (1.000),"Sambirembyung, Gemantar, Mondokan, Sragen",12000,Garansi,SEMI,Chandra Agustama,Soleh,Widodo Callista,,,Chandra Agustama,Soleh,SOLO,,,,,,
+2022,10,JOKO SUKAMTO,Cabang (1.000),"Bulu Rt 01,Karanganyar,Sambungmacan,Sragen",12000,Garansi,SEMI,Chandra Agustama,Soleh,Widodo Callista,,,Chandra Agustama,Soleh,SOLO,,,,,,
+2022,10,MUSTONO,Cabang (1.000),"Desa Pasarlegi, Kec. Sambeng, Lamongan",20000,Garansi,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,,,,,,
+2022,10,MUHAMAD DOFIR,Cabang (1.000),Dsn Patilaler Rt/Rw 4/5 Ds Deyeng Ringin Rejo Kab Kediri,5000,Cost Plus,SEMI,Pebrian Nan Jaya Putra,Zainul Arifin,Yohanes Budi,,,Pebrian Nan Jaya Putra,Zainul Arifin,KEDIRI,,,,,,
+2022,10,RACHMAD DANI IRWANTO C,Cabang (1.000),Ponggok Bandar Kedungmulyo Jombang,8000,Garansi,OPEN,Pebrian Nan Jaya Putra,Zainul Arifin,Yohanes Budi,,,Pebrian Nan Jaya Putra,Zainul Arifin,KEDIRI,,,,,,
+2022,10,BAMBANG HADI UTOMO D,Cabang (1.000),Dsn Bantengan Ds Tanjung Gunung Kec. Peterongan Kab Jombang,21000,Garansi,CLOSED,Heru Cahyono,Zainul Arifin,Yohanes Budi,,,Heru Cahyono,Zainul Arifin,KEDIRI,,,,,,
+2022,10,BAGUS ARDIANI KHOIRUL PUTERA,Cabang (1.000),Dsn. Bendilwuni Rt 022/ Rw 003 Kel. Kademangan Kec. Pagelaran Kab. Malang,12000,Garansi,SEMI,Mira Hadi Asto,Agus Karosa,Yohanes Budi,,,Mira Hadi Asto,Agus Karosa,MALANG,,,,,,
+2022,10,IMAM NGADIANTO B,Cabang (1.000),Dsn. Tlogorejo Kel. Wonorejo Kec. Lawang Kab. Malang,10000,Garansi,SEMI,Rizki Novaldhi Wicaksana,Agus Karosa,Yohanes Budi,,,Rizki Novaldhi Wicaksana,Agus Karosa,MALANG,,,,,,
+2022,10,YOPI SUSANTO,Cabang (1.000),Dsn. Bocek Kec. Karangploso Kab. Malang,7000,Garansi,OPEN,Rizki Novaldhi Wicaksana,Agus Karosa,Yohanes Budi,,,Rizki Novaldhi Wicaksana,Agus Karosa,MALANG,,,,,,
+2022,10,MUHAMMAD ARIF NUR CAMBALI,Cabang (1.000),Dsn. Blobo Rt 003 / Rw 002 Kel. Sukoraharjo Kec. Kepanjen Kab. Malang,4000,Garansi,OPEN,Mira Hadi Asto,Agus Karosa,Yohanes Budi,,,Mira Hadi Asto,Agus Karosa,MALANG,,,,,,
+2022,10,ARSIN,Cabang (1.000),"Dsn. Sumber Suko, Ds. Plososari, Kec. Grati, Pasuruan",11000,Garansi,CLOSED,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,Imam Khoirul Adha,Fatekhul Asyhar,PROBOLINGGO,,,,,,
+2022,10,DONI EKO ARIFIANTO,Cabang (1.000),"Ds. Tegir, Kec. Pasirian, Lumajang",7000,Garansi,OPEN,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,Budi Setiawan,Fatekhul Asyhar,PROBOLINGGO,,,,,,
+2022,10,HOSTINA WULANDARI,Cabang (1.000),"Dsn. Krajan Rt 05/ Rw 03, Ds. Puspan, Kec. Maron, Probolinggo",18000,Garansi,CLOSED,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,Budi Setiawan,Fatekhul Asyhar,PROBOLINGGO,,,,,,
+2022,10,SUWANDI,Cabang (1.000),"Dsn. Urung - Urung, Ds. Dawuhan Sengon, Kec. Purwodadi, Pasuruan",4000,Garansi,OPEN,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,Imam Khoirul Adha,Fatekhul Asyhar,PROBOLINGGO,,,,,,
+2022,10,SURATNO B,Cabang (1.000),Dusun Satu 001/001 Pekutan Bayan Purworejo,13000,Garansi,CLOSED,Maulana Hidayat,Nailul Fajar Setiawan,Yohanes Budi,,,Maulana Hidayat,Nailul Fajar Setiawan,GOMBONG,,,,,,
+2022,10,EKO ALI CAHYANA,Cabang (1.000),"Jl. Raya Maospati Ngawi Ds. Prampelan, Kec. Karangrejo, Kab. Magetan",9000,Garansi,CLOSED,Mochammad Hoerul Mahbub,Nanang Seno Utomo,Yohanes Budi,,,Mochammad Hoerul Mahbub,Nanang Seno Utomo,MADIUN,,,,,,
+2022,10,SITI FATIMAH,Cabang (1.000),Ds Gandusari Kec. Gandusari Kab. Trenggalek,5000,Garansi,OPEN,Imam Rofi'i,Doni Aris Sujito,Yohanes Budi,,,Imam Rofi'i,Doni Aris Sujito,TULUNGAGUNG,,,,,,
+2022,10,EKO BAMBANG SUTRISNO,Cabang (1.000),Ds Tegalrejo Kec. Selopuro Kab. Blitar,5000,Garansi,CLOSED,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,Mohammad Fa'izin,Doni Aris Sujito,TULUNGAGUNG,,,,,,
+2022,10,HAPPY KURNIAWAN B,Cabang (1.000),Ds Tambakan Kec. Gandusari Kab. Blitar,4000,Garansi,CLOSED,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,Mohammad Fa'izin,Doni Aris Sujito,TULUNGAGUNG,,,,,,
+2022,11,HJ. YEYEN,HO (1.500),"Kp. Jambu Landeh, Rt. 07/02, Ds. Cisalam, Kec. Baros, Kab. Serang",27000,Garansi,SEMI,Muhammad Bimo Seno,Warsito,Widodo Callista,,,Muhammad Bimo Seno,Warsito,HO,,,,,,
+2022,11,CINTHIA SILVI HIDAYAT,HO (1.500),Kp.Tunjung Rt 004/002 Tanjungrasa Kec.Patokbeusi Subang,7000,Garansi,SEMI,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Muhammad Hasyim,Nanang Prihanto,HO,,,,,,
+2022,11,PRASTOWO ADHI A,Cabang (1.000),"Nariban, Progowati, Mungkid, Magelang",6000,Garansi,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,Dwi Santoso,Soleh,SOLO,,,,,,
+2022,11,SUHANTONO A,Cabang (1.000),"Ds Tanggir, Kec. Malo, Bojonegoro",13000,Garansi,CLOSED,Fajar Yoga Wicaksono,Bayu Sutomo,Yohanes Budi,,,Fajar Yoga Wicaksono,Bayu Sutomo,TUBAN,,,,,,
+2022,11,SUHANTONO B,Cabang (1.000),"Ds Tanggir, Kec. Malo, Bojonegoro",7000,Garansi,CLOSED,Fajar Yoga Wicaksono,Bayu Sutomo,Yohanes Budi,,,Fajar Yoga Wicaksono,Bayu Sutomo,TUBAN,,,,,,
+2022,11,SUSANTI,Cabang (1.000),Ds Sumbersari Kec. Nglegok Kab. Blitar,6000,Garansi,CLOSED,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,Mohammad Fa'izin,Doni Aris Sujito,TULUNGAGUNG,,,,,,
+2022,11,MULYONO,Cabang (1.000),Ds Gandusari Kec. Gandusari Kab. Trenggalek,5000,Garansi,OPEN,Imam Rofi'i,Doni Aris Sujito,Yohanes Budi,,,Imam Rofi'i,Doni Aris Sujito,TULUNGAGUNG,,,,,,
+2022,11,MARZULI M A,Cabang (1.000),Dsn. Cungkup No. 40 Rt 002 / Rw 001 Kel. Ngerendeng Kec. Selorejo Kab. Blitar,16000,Garansi,SEMI,Mira Hadi Asto,Agus Karosa,Yohanes Budi,,,Mira Hadi Asto,Agus Karosa,MALANG,,,,,,
+2022,11,ROFI DURI,Cabang (1.000),Dsn. Poncokusumo Kec. Poncokusumo Kab. Malang,32000,Garansi,SEMI,Rizki Novaldhi Wicaksana,Agus Karosa,Yohanes Budi,,,Rizki Novaldhi Wicaksana,Agus Karosa,MALANG,,,,,,
+2022,11,KAMILUR ROSYAD,Cabang (1.000),Jl. Kh Malik Dalam Rt 001 / Rw 007 Kel. Buring Kab. Malang,10000,Garansi,SEMI,Rizki Novaldhi Wicaksana,Agus Karosa,Yohanes Budi,,,Rizki Novaldhi Wicaksana,Agus Karosa,MALANG,,,,,,
+2022,11,SUPRIYADI,Cabang (1.000),"Dsn. Lorkali Rt. 02/Rw 04, Ds. Gerbo, Kec. Purwodadi, Pasuruan",6500,Garansi,CLOSED,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,Imam Khoirul Adha,Fatekhul Asyhar,PROBOLINGGO,,,,,,
+2022,11,MUHAMAD QULIYA,Cabang (1.000),"Dsn. Jagan, Rt. 005/ Rw 006, Ds. Tambakrejo, Kec. Pasrepan, Pasuruan",15000,Garansi,CLOSED,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,Imam Khoirul Adha,Fatekhul Asyhar,PROBOLINGGO,,,,,,
+2022,11,ARIF SULAIMAN,Cabang (1.000),"Dsn. Slamet, Ds. Klampokan, Kec. Besuk, Kab. Probolinggo",10000,Garansi,CLOSED,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,Budi Setiawan,Fatekhul Asyhar,PROBOLINGGO,,,,,,
+2022,11,NOVA SAKTI DWI KURNIAWAN B,Cabang (1.000),Jln. Ketasari Desa Losari Kecamatan Rawalo Banyumas,22000,Garansi,CLOSED,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,Yohanes Budi,,,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,GOMBONG,,,,,,
+2022,11,NURTI HERAWATI,Cabang (1.000),Singasari 001 / 005 Singasari Karanglewas Banyumas,22000,Garansi,CLOSED,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,Yohanes Budi,,,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,GOMBONG,,,,,,
+2022,11,ABDUL MAJID,Cabang (1.000),Dsn Kroncong Rt 1 Rw 3 Purworejo Kandat Kab Kediri,4000,Garansi,OPEN,Heru Cahyono,Zainul Arifin,Yohanes Budi,,,Heru Cahyono,Zainul Arifin,KEDIRI,,,,,,
+2022,11,PARYOTO B,Cabang (1.000),"Plumbon, Plumbon, Sambungmacan, Sragen",30000,Garansi,SEMI,Chandra Agustama,Soleh,Widodo Callista,,,Chandra Agustama,Soleh,SOLO,,,,,,
+2022,11,PT. SEPEN USAHA TERNAK (SUT),HO (1.500),"Kp. Sepen, Desa. Banyumekar, Kec. Labuan, Kab. Pandeglang, Banten.",63000,Garansi,CLOSED,Abdul Rohim,Endri Suhendri,Widodo Callista,,,Abdul Rohim,Endri Suhendri,HO,,,,,,
+2022,11,FABIO FARM B,HO (1.500),"Kp. Kandang Sapi, Desa Kandang Sapi, Kab Lebak Banten",48000,Garansi,CLOSED,Abdul Rohim,Endri Suhendri,Widodo Callista,,,Abdul Rohim,Endri Suhendri,HO,,,,,,
+2022,11,RITA SULASIH,HO (1.500),Sukajaya Jonggol,28000,Cost Plus,SEMI,Dedy Prayitno,Muhammad Khaerudin,Widodo Callista,,,Dedy Prayitno,Muhammad Khaerudin,HO,,,,,,
+2022,11,DANI AHMAD LUTHVI,Cabang (1.000),"Karanglo Rt 04/01, Kalegan, Bandongan, Magelang",15000,Garansi,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,Dwi Santoso,Soleh,SOLO,,,,,,
+2022,11,PRASTOWO ADHI B,Cabang (1.000),"Logandeng Rt 02/02, Ngablak, Srumbung, Magelang",8000,Garansi,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,Dwi Santoso,Soleh,SOLO,,,,,,
+2022,11,CV TERNAK AYAM MAKMUR A,Cabang (1.000),"Muarareja, Tegal Barat Kota Tegal",20000,Cost Plus,CLOSED,Muhamad Rusdi,Agus Kisworo,Widodo Callista,,,Muhamad Rusdi,Agus Kisworo,TEGAL,,,,,,
+2022,11,FENDI WAHYUDI A,Cabang (1.000),Dsn. Ringin Pitu Kel. Peniwen Kec. Kromengan Kab. Malang,15000,Garansi,SEMI,Mira Hadi Asto,Agus Karosa,Yohanes Budi,,,Mira Hadi Asto,Agus Karosa,MALANG,,,,,,
+2022,11,KAMILUR ROSYAD B,Cabang (1.000),Dsn. Alas Gede Kel. Baran Ngingit Kec. Tumpang Kab. Malang,20000,Garansi,SEMI,Rizki Novaldhi Wicaksana,Agus Karosa,Yohanes Budi,,,Rizki Novaldhi Wicaksana,Agus Karosa,MALANG,,,,,,
+2022,11,NUR ROHMAN HARIYANTO,Cabang (1.000),"Dsn. Muneng, Ds. Mayangan, Kec. Gumukmas, Kab. Jember",21000,Garansi,CLOSED,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,Budi Setiawan,Fatekhul Asyhar,PROBOLINGGO,,,,,,
+2022,11,SINGGIH KUMARTA,Cabang (1.000),"Dsn. Tegalan Bulu, Gang 6 Cemara Rt 05/ Rw 08, Ds. Tegalan Bolo Bukandang, Kec. Prigen, Pasuruan",4000,Garansi,SEMI,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,Imam Khoirul Adha,Fatekhul Asyhar,PROBOLINGGO,,,,,,
+2022,11,NURYANTO,Cabang (1.000),Ds. Sukorejo Kec. Tegowanu Kab. Grobogan,13000,Garansi,SEMI,Rifanto,Suhindro Awitno,Widodo Callista,,,Rifanto,Suhindro Awitno,PATI,,,,,,
+2022,11,DENOK SUCI HANDAYANI A,Cabang (1.000),Ds Sumber Agung Rt 2 Rw 2 Gondang Nganjuk,5000,Garansi,CLOSED,Heru Cahyono,Zainul Arifin,Yohanes Budi,,,Heru Cahyono,Zainul Arifin,KEDIRI,,,,,,
+2022,11,DENOK SUCI HANDAYANI B,Cabang (1.000),Ds Sumber Agung Rt 2 Rw 2 Gondang Nganjuk,5000,Garansi,CLOSED,Heru Cahyono,Zainul Arifin,Yohanes Budi,,,Heru Cahyono,Zainul Arifin,KEDIRI,,,,,,
+2022,11,MUH ARIS ABDULLAH,Cabang (1.000),"Desa Mojoagung, Soko, Tuban",22000,Cost Plus,CLOSED,Fajar Yoga Wicaksono,Bayu Sutomo,Yohanes Budi,,,Fajar Yoga Wicaksono,Bayu Sutomo,TUBAN,,,,,,
+2022,11,DIMAS CANDRA,Cabang (1.000),"Desa Pasarlegi, Kec. Sambeng, Lamongan",15000,Garansi,CLOSED,Suprayogik,Bayu Sutomo,Yohanes Budi,,,Suprayogik,Bayu Sutomo,TUBAN,,,,,,
+2022,11,ANDI ANTORO,Cabang (1.000),Ds Panjerejo Kec. Rejotangan Kab. Tulungagung,10000,Garansi,CLOSED,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,Mohammad Fa'izin,Doni Aris Sujito,TULUNGAGUNG,,,,,,
+2022,11,MAYA,Cabang (1.000),Ds Betak Kec. Kaliudawir Kab. Tulungagung,6000,Garansi,CLOSED,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,Mohammad Fa'izin,Doni Aris Sujito,TULUNGAGUNG,,,,,,
+2022,11,UNANG SARIFUDIN A,Cabang (1.000),Slinga Kaligondang Purbalingga,25000,Garansi,CLOSED,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,Yohanes Budi,,,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,GOMBONG,,,,,,
+2022,11,UNANG SARIFUDIN B,Cabang (1.000),Slinga Kaligondang Purbalingga,22000,Garansi,CLOSED,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,Yohanes Budi,,,Taufiq Rustianto Pambudi,Nailul Fajar Setiawan,GOMBONG,,,,,,
+2022,11,RAHMATULLAH KAMSIN B,HO (1.500),"Kp. Bojong, Rt 18/01. Desa Bakung, Kec. Cikande Kab Serang",4000,Garansi,SEMI,Hendra Firdaus,Endri Suhendri,Widodo Callista,,,Hendra Firdaus,Endri Suhendri,HO,,,,,,
+2022,11,CV TERNAK AYAM MAKMUR B,Cabang (1.000),"Muarareja, Tegal Barat Kota Tegal",40000,Cost Plus,CLOSED,Muhamad Rusdi,Agus Kisworo,Widodo Callista,,,Muhamad Rusdi,Agus Kisworo,TEGAL,,,,,,
+2022,11,H. ADE KUSMAWAN A,HO (1.500),"Jln Citeras Gorda Rt02/06 Desa Leuwi Batu 
+Kec. Rumpin, Kab. Bogor
+",54000,Cost Plus,CLOSED,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Muhammad Hasyim,Nanang Prihanto,HO,,,,,,
+2022,11,H. ADE KUSMAWAN B,HO (1.500),"Jln Citeras Gorda Rt02/06 Desa Leuwi Batu 
+Kec. Rumpin, Kab. Bogor
+",60000,Cost Plus,CLOSED,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Muhammad Hasyim,Nanang Prihanto,HO,,,,,,
+2022,11,H. ADE KUSMAWAN C,HO (1.500),"Jln Citeras Gorda Rt02/06 Desa Leuwi Batu 
+Kec. Rumpin, Kab. Bogor
+",60000,Cost Plus,CLOSED,Muhammad Hasyim,Nanang Prihanto,Widodo Callista,,,Muhammad Hasyim,Nanang Prihanto,HO,,,,,,
+2022,11,PERMADI,Cabang (1.000),Kaliwlingi Kab Brebes,11000,Garansi,SEMI,Rendi Darmawan,Agus Kisworo,Widodo Callista,,,Rendi Darmawan,Agus Kisworo,TEGAL,,,,,,
+2022,11,PARYOTO C,Cabang (1.000),"Plumbon, Plumbon, Sambungmacan, Sragen",32000,Garansi,SEMI,Chandra Agustama,Soleh,Widodo Callista,,,Chandra Agustama,Soleh,SOLO,,,,,,
+2022,11,SUJADI,Cabang (1.000),"Karang Kulon Rt 01/08, Sonorejo, Candimulyo, Magelang",13500,Garansi,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,Dwi Santoso,Soleh,SOLO,,,,,,
+2022,11,MOCHAMAD WILDZAM QADZAFI A,Cabang (1.000),Dsn Panglungan Ds Panglungan Kec Wonosalam Jombang Jatim,15000,Garansi,CLOSED,Heru Cahyono,Zainul Arifin,Yohanes Budi,,,Heru Cahyono,Zainul Arifin,KEDIRI,,,,,,
+2022,11,MOCHAMAD WILDZAM QADZAFI B,Cabang (1.000),Dsn Panglungan Ds Panglungan Kec Wonosalam Jombang Jatim,15000,Garansi,OPEN,Heru Cahyono,Zainul Arifin,Yohanes Budi,,,Heru Cahyono,Zainul Arifin,KEDIRI,,,,,,
+2022,11,MUSTAKIM,Cabang (1.000),Dsn Dampak Rt 001 Rw 004 Ds Panglungan Kec. Wonosalam Jombang Jatim,4000,Garansi,OPEN,Heru Cahyono,Zainul Arifin,Yohanes Budi,,,Heru Cahyono,Zainul Arifin,KEDIRI,,,,,,
+2022,11,HADI PRAYITNO,Cabang (1.000),"Dsn Kedung Biru Ds Kalitengah Kec. Panggungrejo, Kab. Blitar",8000,Garansi,CLOSED,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,Mohammad Fa'izin,Doni Aris Sujito,TULUNGAGUNG,,,,,,
+2022,11,SUKAMTO B,Cabang (1.000),"Ds. Pakisrejo Kec. Tanggunggunung, Kab. Tulungagung",5000,Garansi,CLOSED,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,Mohammad Fa'izin,Doni Aris Sujito,TULUNGAGUNG,,,,,,
+2022,11,UMI KULSUM ( TULUNGAGUNG ),Cabang (1.000),Ds Jingglong Kec. Sutojayan Kab. Blitar,11000,Garansi,CLOSED,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,Mohammad Fa'izin,Doni Aris Sujito,TULUNGAGUNG,,,,,,
+2022,11,ANANG FAUZI,Cabang (1.000),"Dsn. Glatik Krikilan, Ds. Watesnegoro, Kec.Ngoro, Kab. Mojokerto",20000,Garansi,SEMI,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,Imam Khoirul Adha,Fatekhul Asyhar,PROBOLINGGO,,,,,,
+2022,11,ACHMAD RIZA SETIAWAN,Cabang (1.000),"Dsn. Baran Ds. Karang Kliwon, Kec. Grati, Pasuruan",20000,Garansi,CLOSED,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,Imam Khoirul Adha,Fatekhul Asyhar,PROBOLINGGO,,,,,,
+2022,11,PT. SANTRI MILENIAL INDONESIA A,Cabang (1.000),"Jl. Tugusari Dusun Krajan A, Rt. 002/Rw 012, Ds. Curah Kalong, Kec. Bangsalsari, Jember",20000,Garansi,CLOSED,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,Budi Setiawan,Fatekhul Asyhar,PROBOLINGGO,,,,,,
+2022,11,PT. SANTRI MILENIAL INDONESIA B,Cabang (1.000),"Jl. Tugusari Dusun Krajan A, Rt. 002/Rw 012, Ds. Curah Kalong, Kec. Bangsalsari, Jember",20000,Garansi,CLOSED,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,Budi Setiawan,Fatekhul Asyhar,PROBOLINGGO,,,,,,
+2022,11,FENDI WAHYUDI B,Cabang (1.000),Dsn. Ringin Pitu Kel. Peniwen Kec. Kromengan Kab. Malang,10000,Garansi,SEMI,Mira Hadi Asto,Agus Karosa,Yohanes Budi,,,Mira Hadi Asto,Agus Karosa,MALANG,,,,,,
+2022,11,MARZULI M B,Cabang (1.000),Dsn. Sumbertempur Kec. Wonosari Kab. Malang,12000,Garansi,SEMI,Mira Hadi Asto,Agus Karosa,Yohanes Budi,,,Mira Hadi Asto,Agus Karosa,MALANG,,,,,,
+2022,11,PUJI HARIANTO B,Cabang (1.000),Dsn. Balokan Kel. Kromengan Kec. Kromengan Kab. Malang,10000,Garansi,SEMI,Rizki Novaldhi Wicaksana,Agus Karosa,Yohanes Budi,,,Rizki Novaldhi Wicaksana,Agus Karosa,MALANG,,,,,,
+2022,11,ROFI DURI B,Cabang (1.000),Dsn. Poncokusumo Kec. Poncokusumo Kab. Malang,24000,Garansi,SEMI,Rizki Novaldhi Wicaksana,Agus Karosa,Yohanes Budi,,,Rizki Novaldhi Wicaksana,Agus Karosa,MALANG,,,,,,
+2022,11,IDRUS UBAIDI B,HO (1.500),"Kp. Citapen, Desa. Ciuyah, Kec. Sajira, Kab. Lebak",11000,Cost Plus,SEMI,Ihsan Auliya Fadhlillah S,Warsito,Widodo Callista,,,Ihsan Auliya Fadhlillah S,Warsito,HO,,,,,,
+2022,11,RAHMATULLAH CIWAJIK,HO (1.500),"Kp Ciwajik, Desa Ciwajik, Kec Kibin Kab Serang",21500,Garansi,SEMI,Hendra Firdaus,Endri Suhendri,Widodo Callista,,,Hendra Firdaus,Endri Suhendri,HO,,,,,,
+2022,11,PENDI,HO (1.500),"Kp. Cisaat, Desa. Sinarjaya, Kec. Mandalawangi, Kab. Pandeglang",6000,Cost Plus,SEMI,Muhammad Bimo Seno,Warsito,Widodo Callista,,,Muhammad Bimo Seno,Warsito,HO,,,,,,
+2022,11,PURNAMA A,Cabang (1.000),"Kreo, Randudongkal Kab Pemalang",16500,Garansi,SEMI,Rendi Darmawan,Agus Kisworo,Widodo Callista,,,Rendi Darmawan,Agus Kisworo,TEGAL,,,,,,
+2022,11,NANANG FAUZI,Cabang (1.000),Dsn. Krantil Kel. Karangrejo Kec. Kromengan Kab. Malang,8000,Garansi,SEMI,Mira Hadi Asto,Agus Karosa,Yohanes Budi,,,Mira Hadi Asto,Agus Karosa,MALANG,,,,,,
+2022,11,NUR HASYIM,Cabang (1.000),"Dsn. Kendang Tengah, Ds. Kendang Dukuh, Kec. Wonorejo, Pasuruan",4500,Garansi,SEMI,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,Imam Khoirul Adha,Fatekhul Asyhar,PROBOLINGGO,,,,,,
+2022,11,MUHAMAD KHOIRI,Cabang (1.000),"Dsn. Kalibanter, Kec. Randuagung, Kab. Lumajang",10000,Garansi,CLOSED,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,Budi Setiawan,Fatekhul Asyhar,PROBOLINGGO,,,,,,
+2022,11,M. HUSNAN,Cabang (1.000),"Dsn. Krajan 1, Ds. Patemon, Kec. Tanggul, Jember",7000,Garansi,SEMI,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,Budi Setiawan,Fatekhul Asyhar,PROBOLINGGO,,,,,,
+2022,11,SRI JULIANIK,Cabang (1.000),Ds Jingglong Kec. Sutojayan Kab. Blitar,8000,Garansi,SEMI,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,Mohammad Fa'izin,Doni Aris Sujito,TULUNGAGUNG,,,,,,
+2022,11,BIBIT SETIAWAN,Cabang (1.000),Ds Winong Kec. Kalidawir Kab. Tulungagung,12000,Garansi,SEMI,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,Mohammad Fa'izin,Doni Aris Sujito,TULUNGAGUNG,,,,,,
+2022,11,GALUDIONO,Cabang (1.000),Dsn Baran Ds Banyuurip Kec. Kalidawir Kab. Tulungagung,7000,Garansi,SEMI,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,Mohammad Fa'izin,Doni Aris Sujito,TULUNGAGUNG,,,,,,
+2022,11,PURNAMA RIANI,HO (1.500),Kp.Nyengele Kec.Cariu Kab Bogor,30000,Cost Plus,SEMI,Usman Efendi,Muhammad Khaerudin,Widodo Callista,,,Usman Efendi,Muhammad Khaerudin,HO,,,,,,
+2022,11,JOKO TRI HANDONO,HO (1.500),Kp Bayuku Desa Koper Kec Kresek Kab Tangerang,12000,Cost Plus,SEMI,Muhammad Bimo Seno,Warsito,Widodo Callista,,,Muhammad Bimo Seno,Warsito,HO,,,,,,
+2022,11,SARMAN,HO (1.500),"Kp. Cikarae, Desa. Bintangsari, Kec. Cipanas, Kab. Lebak",6000,Cost Plus,SEMI,Muhammad Bimo Seno,Warsito,Widodo Callista,,,Muhammad Bimo Seno,Warsito,HO,,,,,,
+2022,11,TB SETIA WIGUNA,HO (1.500),"Kp Pangbogoan, Desa Banyubiru Kec. Labuan",15000,Cost Plus,SEMI,Abdul Rohim,Endri Suhendri,Widodo Callista,,,Abdul Rohim,,HO,,,,,,
+2022,11,LURAH JUHDI,HO (1.500),Kp Cimao Desa Mekarjaya Kec Cileles Kab Lebak,25000,Cost Plus,SEMI,Muhammad Bimo Seno,Warsito,Widodo Callista,,,Muhammad Bimo Seno,,HO,,,,,,
+2022,11,PURNAMA B,Cabang (1.000),"Kreo, Randudongkal Kab Pemalang",16500,Garansi,SEMI,Rendi Darmawan,Agus Kisworo,Widodo Callista,,,Rendi Darmawan,,TEGAL,,,,,,
+2022,11,ENDRIG SUHANDOKO B,Cabang (1.000),"Rt 01 Rw 04 Ds. Mojoagung, Kec. Pucakwangi, Kab. Pati",8000,Garansi,CLOSED,Ahmad Sumarsono,Suhindro Awitno,Widodo Callista,,,,,PATI,,,,,,
+2022,11,SUJADI,Cabang (1.000),"Karang Kulon Rt 01/08, Sonorejo, Candimulyo, Magelang",13500,Garansi,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,,,SOLO,,,,,,
+2022,11,SUGENG PRAYITNO A,Cabang (1.000),"Tanggul, Merdikarto, Tempel, Sleman, Yogyakarta",9000,Garansi,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,,,SOLO,,,,,,
+2022,11,ENDANG SUWANTIN,Cabang (1.000),Dsn Bendosari Rt/Rw 02/01 Ds Bendosari Kec Kras Kab Kediri,20000,Cost Plus,SEMI,Pebrian Nan Jaya Putra,Zainul Arifin,Yohanes Budi,,,,,KEDIRI,,,,,,
+2022,11,MULYONO ( KEDIRI ) ,Cabang (1.000),Dsn Tlukan Saketi Ngadiluwih Rt 02 Rw 03,5000,Garansi,OPEN,Heru Cahyono,Zainul Arifin,Yohanes Budi,,,,,KEDIRI,,,,,,
+2022,11,NANANG ADAM SISWOYO,Cabang (1.000),Ds Ngubalan Kec. Kalidawir Kab. Tulungagung,5000,Garansi,SEMI,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,,,TULUNGAGUNG,,,,,,
+2022,11,ADI SUWARNO,Cabang (1.000),Dsn Geneng Ds Tarokan Kec. Tarokan Kab. Kediri,20000,Garansi,CLOSED,Imam Rofi'i,Doni Aris Sujito,Yohanes Budi,,,,,TULUNGAGUNG,,,,,,
+2022,11,SURYA IRAWAN,Cabang (1.000),Ds Slumbung Kec. Gandusari Kab. Blitar,8000,Garansi,SEMI,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,,,TULUNGAGUNG,,,,,,
+2022,11,KAMILUR ROSYAD C,Cabang (1.000),Dsn. Barat Rt 006 / Rw 007 Kec. Kedungkandang Kab. Malang,12000,Garansi,SEMI,Mira Hadi Asto,Agus Karosa,Yohanes Budi,,,,,MALANG,,,,,,
+2022,11,DWI AGUNG PRASETYONO,Cabang (1.000),Dsn. Krajan Kel. Jambangan Kec. Dampit Kab. Malang,7000,Garansi,SEMI,Rizki Novaldhi Wicaksana,Agus Karosa,Yohanes Budi,,,,,MALANG,,,,,,
+2022,11,SULASEMI B,Cabang (1.000),Dsn. Prembangan Kec. Pagelaran Kab. Malang,15000,Garansi,SEMI,Mira Hadi Asto,Agus Karosa,Yohanes Budi,,,,,MALANG,,,,,,
+2022,11,ENI KUSRINI,Cabang (1.000),Pekutan Bayan Purworejo,13000,Garansi,CLOSED,Maulana Hidayat,Nailul Fajar Setiawan,Yohanes Budi,,,,,GOMBONG,,,,,,
+2022,11,DERIL FAHMI ARROHMAN,Cabang (1.000),"Ds. Lorkali Rt 4/Rw 1, Ds. Gerbo, Kec. Puwodadi, Pasuruan",4500,Garansi,Open,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,,,PROBOLINGGO,,,,,,
+2022,11,MOGIE PRIAMBODO A 1,Cabang (1.000),"Dsn. Sempor, Ds. Candi Binangun, Kec. Sukorejo, Pasuruan",22000,Garansi,CLOSED,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,,,PROBOLINGGO,,,,,,
+2022,11,MOGIE PRIAMBODO A 2,Cabang (1.000),"Dsn. Sempor, Ds. Candi Binangun, Kec. Sukorejo, Pasuruan",44000,Garansi,CLOSED,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,,,PROBOLINGGO,,,,,,
+2022,11,SOLEH A,Cabang (1.000),"Dsn. Ngebruk, Ds. Tempeh Kidul, Kec. Tempeh, Kec. Lumajang",11000,Garansi,CLOSED,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,,,PROBOLINGGO,,,,,,
+2022,11,SOLEH B,Cabang (1.000),"Dsn. Celakan, Ds. Tempeh Kidul, Kec. Tempeh, Kec. Lumajang",2500,Garansi,Open,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,,,PROBOLINGGO,,,,,,
+2022,11,ANDHI SETIAWAN,Cabang (1.000),"Dsn. Krajan, Ds. Curah Kalong, Kec. Bangsalsari, Jember",12000,Garansi,Open,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,,,PROBOLINGGO,,,,,,
+2022,11,MOMAMMAD ALI HASAN,Cabang (1.000),"Dsn. Sungai Tengah, Ds. Manggisan, Kec. Tanggul, Jember",6000,Garansi,CLOSED,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,,,PROBOLINGGO,,,,,,
+2022,11,HERMANTO,Cabang (1.000),"Dsn. Jumbatan, Ds. Darungan, Kec. Tanggul, Jember",5500,Garansi,CLOSED,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,,,PROBOLINGGO,,,,,,
+2022,12,RIO DWI KUNCORO B,HO (1.500),"Kp Kendayakandesa Sukakarya 
+Rt/Rw 001/001 Kec Sukakarya Kab Bekasi
+",19000,Cost Plus,SEMI,Dedy Prayitno,Muhammad Khaerudin,Widodo Callista,,,,,HO,,,,,,
+2022,12,SUCIPTO 2 B,HO (1.500),"Kp. Curug, Jasinga, Bogor",9000,Cost Plus,SEMI,Suma,Muhammad Khaerudin,Widodo Callista,,,,,HO,,,,,,
+2022,12,SRI HARTATIK,Cabang (1.000),Ds. Tanjungsekar Kec. Pucakwangi Kab. Pati,20000,Garansi,SEMI,Budi Sutarjo,Suhindro Awitno,Widodo Callista,,,,,PATI,,,,,,
+2022,12,SUGENG PRAYITNO B,Cabang (1.000),"Tanggul, Merdikarto, Tempel, Sleman, Yogyakarta",9000,Garansi,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,,,SOLO,,,,,,
+2022,12,PRANOTO PUJI HIDAYAT B,Cabang (1.000),"Cengkawakrejo Rt: 05/01 Banyuurip, Purworejo",8000,Garansi,SEMI,Dwi Santoso,Soleh,Widodo Callista,,,,,SOLO,,,,,,
+2022,12,SARWONO,Cabang (1.000),"Dsn. Jubleg, Rt 01 Rw 03 Ds. Gerih, Kec. Derih, Ngawi",16000,Own Farm,SEMI,Mochammad Hoerul Mahbub,Nanang Seno Utomo,Yohanes Budi,,,,,MADIUN,,,,,,
+2022,12,EDI SUSANTO,Cabang (1.000),"Ds. Tunggur, Kec. Lembeyan, Magetan",12000,Own Farm,SEMI,Mochammad Hoerul Mahbub,Nanang Seno Utomo,Yohanes Budi,,,,,MADIUN,,,,,,
+2022,12,DENI APRIANDI,HO (1.500),"Kp Keleng Kadu Kapas, Desa Sukaraja, Kec Pulosari Kabupaten Pandeglang Banten",13000,Garansi,SEMI,Abdul Rohim,Endri Suhendri,Widodo Callista,,,,,HO,,,,,,
+2022,12,MULYONO ( madiun ),Cabang (1.000),"Jl. Tiono Ds. Mrahu, Kec. Kartoharjo, Magetan",60000,Own Farm,SEMI,Mochammad Hoerul Mahbub,Nanang Seno Utomo,Yohanes Budi,,,,,MADIUN,,,,,,
+2022,12,NANANG JATMIKO,Cabang (1.000),Ds Ngubalan Kec. Kalidawir Kab. Tulungagung,11000,Garansi,CLOSED,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,,,TULUNGAGUNG,,,,,,
+2022,12,ARI SUROSO,Cabang (1.000),Ds Bono Kec. Boyolangu Kab. Tulungagung,6000,Garansi,CLOSED,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,,,TULUNGAGUNG,,,,,,
+2022,12,TORIMIN,Cabang (1.000),"Dsn Teko'An Rt 01/Rw 14, Ds. Tanggul Kulon, Kec. Tanggul, Kab. Jember",12000,Garansi,SEMI,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,,,PROBOLINGGO,,,,,,
+2022,12,MOGIE PRIAMBODO B,Cabang (1.000),"Dsn. Sempor, Ds. Candi Binangun, Kec. Sukorejo, Pasuruan",36000,Cost Plus,CLOSED,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,,,PROBOLINGGO,,,,,,
+2022,12,MOGIE PRIAMBODO C,Cabang (1.000),"Dsn. Sempor, Ds. Candi Binangun, Kec. Sukorejo, Pasuruan",30000,Cost Plus,CLOSED,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,,,PROBOLINGGO,,,,,,
+2022,12,EDY SUKOCO,Cabang (1.000),Dsn. Ngrejo Kel. Kluwut Kec. Wonosari,20000,Garansi,SEMI,Mira Hadi Asto,Agus Karosa,Yohanes Budi,,,,,MALANG,,,,,,
+2022,12,MOCH FERY KUSNIANTO,Cabang (1.000),Dsn . Panglungan Ds Panglungan Kec . Wonosalam Jombang,20000,Garansi,OPEN,Heru Cahyono,Zainul Arifin,Yohanes Budi,,,,,KEDIRI,,,,,,
+2022,12,NUR HUSEN,Cabang (1.000),"Dsn Kebun, Ds. Kapasan, Kec. Nguling, Pasuruan",6500,Garansi,OPEN,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,,,PROBOLINGGO,,,,,,
+2022,12,NAJAR,Cabang (1.000),"Dsn Kebun, Ds. Kapasan, Kec. Nguling, Pasuruan",6000,Garansi,OPEN,Imam Khoirul Adha,Fatekhul Asyhar,Yohanes Budi,,,,,PROBOLINGGO,,,,,,
+2022,12,SAMSURI,Cabang (1.000),"Dsn. Tegal Rejo, Ds. Sumberjati, Kec. Tempeh, Lumajang",20000,Garansi,SEMI,Budi Setiawan,Fatekhul Asyhar,Yohanes Budi,,,,,PROBOLINGGO,,,,,,
+2022,12,SAMSULIADI,Cabang (1.000),Jl.Sumber Ayu Kel. Bulurejo Kec. Kalipare Kab. Malang,10000,Garansi,SEMI,Mira Hadi Asto,Agus Karosa,Yohanes Budi,,,,,MALANG,,,,,,
+2022,12,SUHARJITO,Cabang (1.000),Jl.Sumber Ayu Kel. Bulurejo Kec. Kalipare Kab. Malang,9000,Garansi,SEMI,Mira Hadi Asto,Agus Karosa,Yohanes Budi,,,,,MALANG,,,,,,
+2022,12,IMAM JUNAIDI,Cabang (1.000),Ds Tawangrejo Kec. Binangun Kab. Blitar,16000,Garansi,CLOSED,Mohammad Fa'izin,Doni Aris Sujito,Yohanes Budi,,,,,TULUNGAGUNG,,,,,,
+2022,12,M. AGUS SIBAWEIH B,Cabang (1.000),"Ds Tanggir, Kec. Malo, Bojonegoro",20000,Garansi,CLOSED,Suci Dwi Arianto,Bayu Sutomo,Yohanes Budi,,,,,TUBAN,,,,,,
+2022,12,DIDIK UTOMO A,Cabang (1.000),Dsn Sambiroto Sambirobyong Kayen Kidul Kab Kediri,14000,Cost Plus,CLOSED,Pebrian Nan Jaya Putra,Zainul Arifin,Yohanes Budi,,,,,KEDIRI,,,,,,
+2022,12,DIDIK UTOMO B,Cabang (1.000),Dsn Sambiroto Sambirobyong Kayen Kidul Kab Kediri,15000,Cost Plus,CLOSED,Pebrian Nan Jaya Putra,Zainul Arifin,Yohanes Budi,,,,,KEDIRI,,,,,,
+2022,12,GUSWAL,HO (1.500),"Kp Rejeg,Ds Binong,Maja Lebak",7000,Cost Plus,SEMI,Muhammad Bimo Seno,Warsito,Widodo Callista,,,,,HO,,,,,,
+2022,12,TEDDY NURHOLIS B,HO (1.500),"Kp Wates,Ds Waringin Jaya,Kec Cigeulis,Pandeglang,Banten",10000,Garansi,SEMI,Abdul Rohim,Endri Suhendri,Widodo Callista,,,,,HO,,,,,,
